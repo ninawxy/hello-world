@@ -1,0 +1,7310 @@
+[
+ {
+   "Year": 2015,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": null,
+   "Age-adjusted Death Rate": 733.1
+ },
+ {
+   "Year": 2014,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.9,
+   "Age-adjusted Death Rate": 724.6
+ },
+ {
+   "Year": 2013,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.8,
+   "Age-adjusted Death Rate": 731.9
+ },
+ {
+   "Year": 2012,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.8,
+   "Age-adjusted Death Rate": 732.8
+ },
+ {
+   "Year": 2011,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.7,
+   "Age-adjusted Death Rate": 741.3
+ },
+ {
+   "Year": 2010,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.7,
+   "Age-adjusted Death Rate": 747
+ },
+ {
+   "Year": 2009,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.5,
+   "Age-adjusted Death Rate": 749.6
+ },
+ {
+   "Year": 2008,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.2,
+   "Age-adjusted Death Rate": 774.9
+ },
+ {
+   "Year": 2007,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.1,
+   "Age-adjusted Death Rate": 775.3
+ },
+ {
+   "Year": 2006,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 77.8,
+   "Age-adjusted Death Rate": 791.8
+ },
+ {
+   "Year": 2005,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 77.6,
+   "Age-adjusted Death Rate": 815
+ },
+ {
+   "Year": 2004,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 77.5,
+   "Age-adjusted Death Rate": 813.7
+ },
+ {
+   "Year": 2003,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 77.6,
+   "Age-adjusted Death Rate": 843.5
+ },
+ {
+   "Year": 2002,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 77,
+   "Age-adjusted Death Rate": 855.9
+ },
+ {
+   "Year": 2001,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 77,
+   "Age-adjusted Death Rate": 858.8
+ },
+ {
+   "Year": 2000,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 76.8,
+   "Age-adjusted Death Rate": 869
+ },
+ {
+   "Year": 1999,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 76.7,
+   "Age-adjusted Death Rate": 875.6
+ },
+ {
+   "Year": 1998,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 76.7,
+   "Age-adjusted Death Rate": 870.1
+ },
+ {
+   "Year": 1997,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 76.5,
+   "Age-adjusted Death Rate": 877.7
+ },
+ {
+   "Year": 1996,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 76.1,
+   "Age-adjusted Death Rate": 893.7
+ },
+ {
+   "Year": 1995,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.8,
+   "Age-adjusted Death Rate": 909.5
+ },
+ {
+   "Year": 1994,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.7,
+   "Age-adjusted Death Rate": 913.2
+ },
+ {
+   "Year": 1993,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.5,
+   "Age-adjusted Death Rate": 925.8
+ },
+ {
+   "Year": 1992,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.8,
+   "Age-adjusted Death Rate": 905.3
+ },
+ {
+   "Year": 1991,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.5,
+   "Age-adjusted Death Rate": 921.9
+ },
+ {
+   "Year": 1990,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.4,
+   "Age-adjusted Death Rate": 938
+ },
+ {
+   "Year": 1989,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.1,
+   "Age-adjusted Death Rate": 949.9
+ },
+ {
+   "Year": 1988,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.9,
+   "Age-adjusted Death Rate": 975.1
+ },
+ {
+   "Year": 1987,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.9,
+   "Age-adjusted Death Rate": 969.6
+ },
+ {
+   "Year": 1986,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.7,
+   "Age-adjusted Death Rate": 978.4
+ },
+ {
+   "Year": 1985,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.7,
+   "Age-adjusted Death Rate": 987.8
+ },
+ {
+   "Year": 1984,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.7,
+   "Age-adjusted Death Rate": 982.1
+ },
+ {
+   "Year": 1983,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.6,
+   "Age-adjusted Death Rate": 990
+ },
+ {
+   "Year": 1982,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.5,
+   "Age-adjusted Death Rate": 984.9
+ },
+ {
+   "Year": 1981,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.1,
+   "Age-adjusted Death Rate": 1007
+ },
+ {
+   "Year": 1980,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 73.7,
+   "Age-adjusted Death Rate": 1038.7
+ },
+ {
+   "Year": 1979,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 73.9,
+   "Age-adjusted Death Rate": 1010.6
+ },
+ {
+   "Year": 1978,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 73.5,
+   "Age-adjusted Death Rate": 1043.7
+ },
+ {
+   "Year": 1977,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 73.3,
+   "Age-adjusted Death Rate": 1051.6
+ },
+ {
+   "Year": 1976,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 72.9,
+   "Age-adjusted Death Rate": 1084.1
+ },
+ {
+   "Year": 1975,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 72.6,
+   "Age-adjusted Death Rate": 1094.4
+ },
+ {
+   "Year": 1974,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 72,
+   "Age-adjusted Death Rate": 1151.8
+ },
+ {
+   "Year": 1973,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71.4,
+   "Age-adjusted Death Rate": 1201.2
+ },
+ {
+   "Year": 1972,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71.2,
+   "Age-adjusted Death Rate": 1214.8
+ },
+ {
+   "Year": 1971,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71.1,
+   "Age-adjusted Death Rate": 1213.1
+ },
+ {
+   "Year": 1970,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.8,
+   "Age-adjusted Death Rate": 1222.6
+ },
+ {
+   "Year": 1969,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.5,
+   "Age-adjusted Death Rate": 1271.8
+ },
+ {
+   "Year": 1968,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.2,
+   "Age-adjusted Death Rate": 1304.5
+ },
+ {
+   "Year": 1967,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.5,
+   "Age-adjusted Death Rate": 1274
+ },
+ {
+   "Year": 1966,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.2,
+   "Age-adjusted Death Rate": 1309
+ },
+ {
+   "Year": 1965,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.2,
+   "Age-adjusted Death Rate": 1306.5
+ },
+ {
+   "Year": 1964,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.2,
+   "Age-adjusted Death Rate": 1303.8
+ },
+ {
+   "Year": 1963,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.9,
+   "Age-adjusted Death Rate": 1346.3
+ },
+ {
+   "Year": 1962,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.1,
+   "Age-adjusted Death Rate": 1323.6
+ },
+ {
+   "Year": 1961,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.2,
+   "Age-adjusted Death Rate": 1298.8
+ },
+ {
+   "Year": 1960,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.7,
+   "Age-adjusted Death Rate": 1339.2
+ },
+ {
+   "Year": 1959,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.9,
+   "Age-adjusted Death Rate": 1317.3
+ },
+ {
+   "Year": 1958,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.6,
+   "Age-adjusted Death Rate": 1343.4
+ },
+ {
+   "Year": 1957,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.5,
+   "Age-adjusted Death Rate": 1356.7
+ },
+ {
+   "Year": 1956,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.7,
+   "Age-adjusted Death Rate": 1333.7
+ },
+ {
+   "Year": 1955,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.6,
+   "Age-adjusted Death Rate": 1332.3
+ },
+ {
+   "Year": 1954,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.6,
+   "Age-adjusted Death Rate": 1314.8
+ },
+ {
+   "Year": 1953,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 68.8,
+   "Age-adjusted Death Rate": 1385.6
+ },
+ {
+   "Year": 1952,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 68.6,
+   "Age-adjusted Death Rate": 1394.6
+ },
+ {
+   "Year": 1951,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 68.4,
+   "Age-adjusted Death Rate": 1423.5
+ },
+ {
+   "Year": 1950,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 68.2,
+   "Age-adjusted Death Rate": 1446
+ },
+ {
+   "Year": 1949,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 68,
+   "Age-adjusted Death Rate": 1457.3
+ },
+ {
+   "Year": 1948,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 67.2,
+   "Age-adjusted Death Rate": 1501.7
+ },
+ {
+   "Year": 1947,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 66.8,
+   "Age-adjusted Death Rate": 1532
+ },
+ {
+   "Year": 1946,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 66.7,
+   "Age-adjusted Death Rate": 1529.7
+ },
+ {
+   "Year": 1945,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 65.9,
+   "Age-adjusted Death Rate": 1575.4
+ },
+ {
+   "Year": 1944,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 65.2,
+   "Age-adjusted Death Rate": 1618.5
+ },
+ {
+   "Year": 1943,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 63.3,
+   "Age-adjusted Death Rate": 1702.4
+ },
+ {
+   "Year": 1942,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 66.2,
+   "Age-adjusted Death Rate": 1635.8
+ },
+ {
+   "Year": 1941,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.8,
+   "Age-adjusted Death Rate": 1694.6
+ },
+ {
+   "Year": 1940,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 62.9,
+   "Age-adjusted Death Rate": 1785
+ },
+ {
+   "Year": 1939,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 63.7,
+   "Age-adjusted Death Rate": 1766.9
+ },
+ {
+   "Year": 1938,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 63.5,
+   "Age-adjusted Death Rate": 1764.3
+ },
+ {
+   "Year": 1937,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 60,
+   "Age-adjusted Death Rate": 1882.6
+ },
+ {
+   "Year": 1936,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 58.5,
+   "Age-adjusted Death Rate": 1963.7
+ },
+ {
+   "Year": 1935,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 61.7,
+   "Age-adjusted Death Rate": 1860.1
+ },
+ {
+   "Year": 1934,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 61.1,
+   "Age-adjusted Death Rate": 1888.2
+ },
+ {
+   "Year": 1933,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 63.3,
+   "Age-adjusted Death Rate": 1850.1
+ },
+ {
+   "Year": 1932,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 62.1,
+   "Age-adjusted Death Rate": 1897.1
+ },
+ {
+   "Year": 1931,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 61.1,
+   "Age-adjusted Death Rate": 1895.1
+ },
+ {
+   "Year": 1930,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 59.7,
+   "Age-adjusted Death Rate": 1943.8
+ },
+ {
+   "Year": 1929,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 57.1,
+   "Age-adjusted Death Rate": 2081.2
+ },
+ {
+   "Year": 1928,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 56.8,
+   "Age-adjusted Death Rate": 2124.6
+ },
+ {
+   "Year": 1927,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 60.4,
+   "Age-adjusted Death Rate": 1989.5
+ },
+ {
+   "Year": 1926,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 56.7,
+   "Age-adjusted Death Rate": 2146.2
+ },
+ {
+   "Year": 1925,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 59,
+   "Age-adjusted Death Rate": 2068.7
+ },
+ {
+   "Year": 1924,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 59.7,
+   "Age-adjusted Death Rate": 2038
+ },
+ {
+   "Year": 1923,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 57.2,
+   "Age-adjusted Death Rate": 2141.4
+ },
+ {
+   "Year": 1922,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 59.6,
+   "Age-adjusted Death Rate": 2049.5
+ },
+ {
+   "Year": 1921,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 60.8,
+   "Age-adjusted Death Rate": 1958.2
+ },
+ {
+   "Year": 1920,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 54.1,
+   "Age-adjusted Death Rate": 2147.1
+ },
+ {
+   "Year": 1919,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 54.7,
+   "Age-adjusted Death Rate": 2057.2
+ },
+ {
+   "Year": 1918,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 39.1,
+   "Age-adjusted Death Rate": 2541.6
+ },
+ {
+   "Year": 1917,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 50.9,
+   "Age-adjusted Death Rate": 2275.9
+ },
+ {
+   "Year": 1916,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 51.7,
+   "Age-adjusted Death Rate": 2266.6
+ },
+ {
+   "Year": 1915,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 54.5,
+   "Age-adjusted Death Rate": 2174.8
+ },
+ {
+   "Year": 1914,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 54.2,
+   "Age-adjusted Death Rate": 2149.3
+ },
+ {
+   "Year": 1913,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 52.5,
+   "Age-adjusted Death Rate": 2206.5
+ },
+ {
+   "Year": 1912,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 53.5,
+   "Age-adjusted Death Rate": 2211.7
+ },
+ {
+   "Year": 1911,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 52.6,
+   "Age-adjusted Death Rate": 2245.4
+ },
+ {
+   "Year": 1910,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 50,
+   "Age-adjusted Death Rate": 2317.2
+ },
+ {
+   "Year": 1909,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 52.1,
+   "Age-adjusted Death Rate": 2249.2
+ },
+ {
+   "Year": 1908,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 51.1,
+   "Age-adjusted Death Rate": 2298.9
+ },
+ {
+   "Year": 1907,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 47.6,
+   "Age-adjusted Death Rate": 2494.4
+ },
+ {
+   "Year": 1906,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 48.7,
+   "Age-adjusted Death Rate": 2399
+ },
+ {
+   "Year": 1905,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 48.7,
+   "Age-adjusted Death Rate": 2423.7
+ },
+ {
+   "Year": 1904,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 47.6,
+   "Age-adjusted Death Rate": 2502.5
+ },
+ {
+   "Year": 1903,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 50.5,
+   "Age-adjusted Death Rate": 2379
+ },
+ {
+   "Year": 1902,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 51.5,
+   "Age-adjusted Death Rate": 2301.3
+ },
+ {
+   "Year": 1901,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 49.1,
+   "Age-adjusted Death Rate": 2473.1
+ },
+ {
+   "Year": 1900,
+   "Race": "All Races",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 47.3,
+   "Age-adjusted Death Rate": 2518
+ },
+ {
+   "Year": 2015,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": null,
+   "Age-adjusted Death Rate": 624.2
+ },
+ {
+   "Year": 2014,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 81.3,
+   "Age-adjusted Death Rate": 616.7
+ },
+ {
+   "Year": 2013,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 81.2,
+   "Age-adjusted Death Rate": 623.5
+ },
+ {
+   "Year": 2012,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 81.2,
+   "Age-adjusted Death Rate": 624.7
+ },
+ {
+   "Year": 2011,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 81.1,
+   "Age-adjusted Death Rate": 632.4
+ },
+ {
+   "Year": 2010,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 81,
+   "Age-adjusted Death Rate": 634.9
+ },
+ {
+   "Year": 2009,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80.9,
+   "Age-adjusted Death Rate": 636.8
+ },
+ {
+   "Year": 2008,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80.6,
+   "Age-adjusted Death Rate": 660
+ },
+ {
+   "Year": 2007,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80.6,
+   "Age-adjusted Death Rate": 658.1
+ },
+ {
+   "Year": 2006,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80.3,
+   "Age-adjusted Death Rate": 672.2
+ },
+ {
+   "Year": 2005,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80.1,
+   "Age-adjusted Death Rate": 692.3
+ },
+ {
+   "Year": 2004,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80.1,
+   "Age-adjusted Death Rate": 690.5
+ },
+ {
+   "Year": 2003,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.7,
+   "Age-adjusted Death Rate": 715.2
+ },
+ {
+   "Year": 2002,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.6,
+   "Age-adjusted Death Rate": 723.6
+ },
+ {
+   "Year": 2001,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.5,
+   "Age-adjusted Death Rate": 725.6
+ },
+ {
+   "Year": 2000,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.7,
+   "Age-adjusted Death Rate": 731.4
+ },
+ {
+   "Year": 1999,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.4,
+   "Age-adjusted Death Rate": 734
+ },
+ {
+   "Year": 1998,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.5,
+   "Age-adjusted Death Rate": 724.2
+ },
+ {
+   "Year": 1997,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.4,
+   "Age-adjusted Death Rate": 725.3
+ },
+ {
+   "Year": 1996,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.1,
+   "Age-adjusted Death Rate": 732.7
+ },
+ {
+   "Year": 1995,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.9,
+   "Age-adjusted Death Rate": 739.2
+ },
+ {
+   "Year": 1994,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79,
+   "Age-adjusted Death Rate": 738.3
+ },
+ {
+   "Year": 1993,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.8,
+   "Age-adjusted Death Rate": 745.6
+ },
+ {
+   "Year": 1992,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.1,
+   "Age-adjusted Death Rate": 725.3
+ },
+ {
+   "Year": 1991,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.9,
+   "Age-adjusted Death Rate": 737.9
+ },
+ {
+   "Year": 1990,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.8,
+   "Age-adjusted Death Rate": 750.3
+ },
+ {
+   "Year": 1989,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.5,
+   "Age-adjusted Death Rate": 761.3
+ },
+ {
+   "Year": 1988,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.3,
+   "Age-adjusted Death Rate": 780.5
+ },
+ {
+   "Year": 1987,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.3,
+   "Age-adjusted Death Rate": 773.8
+ },
+ {
+   "Year": 1986,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.2,
+   "Age-adjusted Death Rate": 778.5
+ },
+ {
+   "Year": 1985,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.2,
+   "Age-adjusted Death Rate": 784.2
+ },
+ {
+   "Year": 1984,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.2,
+   "Age-adjusted Death Rate": 779.4
+ },
+ {
+   "Year": 1983,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.1,
+   "Age-adjusted Death Rate": 783.3
+ },
+ {
+   "Year": 1982,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.1,
+   "Age-adjusted Death Rate": 776.4
+ },
+ {
+   "Year": 1981,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 77.8,
+   "Age-adjusted Death Rate": 792.7
+ },
+ {
+   "Year": 1980,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 77.4,
+   "Age-adjusted Death Rate": 817.7
+ },
+ {
+   "Year": 1979,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 77.8,
+   "Age-adjusted Death Rate": 789.9
+ },
+ {
+   "Year": 1978,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 77.3,
+   "Age-adjusted Death Rate": 816.4
+ },
+ {
+   "Year": 1977,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 77.2,
+   "Age-adjusted Death Rate": 820.7
+ },
+ {
+   "Year": 1976,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 76.8,
+   "Age-adjusted Death Rate": 849.4
+ },
+ {
+   "Year": 1975,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 76.6,
+   "Age-adjusted Death Rate": 855.1
+ },
+ {
+   "Year": 1974,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75.9,
+   "Age-adjusted Death Rate": 907.5
+ },
+ {
+   "Year": 1973,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75.3,
+   "Age-adjusted Death Rate": 947.8
+ },
+ {
+   "Year": 1972,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75.1,
+   "Age-adjusted Death Rate": 958.7
+ },
+ {
+   "Year": 1971,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75,
+   "Age-adjusted Death Rate": 960.6
+ },
+ {
+   "Year": 1970,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.7,
+   "Age-adjusted Death Rate": 971.4
+ },
+ {
+   "Year": 1969,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.4,
+   "Age-adjusted Death Rate": 1013.4
+ },
+ {
+   "Year": 1968,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.1,
+   "Age-adjusted Death Rate": 1043.5
+ },
+ {
+   "Year": 1967,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.3,
+   "Age-adjusted Death Rate": 1020.5
+ },
+ {
+   "Year": 1966,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.9,
+   "Age-adjusted Death Rate": 1055.3
+ },
+ {
+   "Year": 1965,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.8,
+   "Age-adjusted Death Rate": 1056.1
+ },
+ {
+   "Year": 1964,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.7,
+   "Age-adjusted Death Rate": 1061.5
+ },
+ {
+   "Year": 1963,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.4,
+   "Age-adjusted Death Rate": 1098.5
+ },
+ {
+   "Year": 1962,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.5,
+   "Age-adjusted Death Rate": 1087.1
+ },
+ {
+   "Year": 1961,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.6,
+   "Age-adjusted Death Rate": 1068.5
+ },
+ {
+   "Year": 1960,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.1,
+   "Age-adjusted Death Rate": 1105.3
+ },
+ {
+   "Year": 1959,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.2,
+   "Age-adjusted Death Rate": 1093.5
+ },
+ {
+   "Year": 1958,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 72.9,
+   "Age-adjusted Death Rate": 1120.9
+ },
+ {
+   "Year": 1957,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 72.7,
+   "Age-adjusted Death Rate": 1134.5
+ },
+ {
+   "Year": 1956,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 72.9,
+   "Age-adjusted Death Rate": 1117.5
+ },
+ {
+   "Year": 1955,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 72.8,
+   "Age-adjusted Death Rate": 1121.9
+ },
+ {
+   "Year": 1954,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 72.8,
+   "Age-adjusted Death Rate": 1109.7
+ },
+ {
+   "Year": 1953,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 72,
+   "Age-adjusted Death Rate": 1172.6
+ },
+ {
+   "Year": 1952,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 71.6,
+   "Age-adjusted Death Rate": 1186.7
+ },
+ {
+   "Year": 1951,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 71.4,
+   "Age-adjusted Death Rate": 1213.4
+ },
+ {
+   "Year": 1950,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 71.1,
+   "Age-adjusted Death Rate": 1236
+ },
+ {
+   "Year": 1949,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 70.7,
+   "Age-adjusted Death Rate": 1252.6
+ },
+ {
+   "Year": 1948,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 69.9,
+   "Age-adjusted Death Rate": 1296.4
+ },
+ {
+   "Year": 1947,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 69.7,
+   "Age-adjusted Death Rate": 1332.5
+ },
+ {
+   "Year": 1946,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 69.4,
+   "Age-adjusted Death Rate": 1342.8
+ },
+ {
+   "Year": 1945,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 67.9,
+   "Age-adjusted Death Rate": 1376.8
+ },
+ {
+   "Year": 1944,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 66.8,
+   "Age-adjusted Death Rate": 1428.4
+ },
+ {
+   "Year": 1943,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 64.4,
+   "Age-adjusted Death Rate": 1507.8
+ },
+ {
+   "Year": 1942,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 67.9,
+   "Age-adjusted Death Rate": 1444.7
+ },
+ {
+   "Year": 1941,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 66.8,
+   "Age-adjusted Death Rate": 1502.4
+ },
+ {
+   "Year": 1940,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 65.2,
+   "Age-adjusted Death Rate": 1599.4
+ },
+ {
+   "Year": 1939,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 65.4,
+   "Age-adjusted Death Rate": 1599.8
+ },
+ {
+   "Year": 1938,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 65.3,
+   "Age-adjusted Death Rate": 1599.1
+ },
+ {
+   "Year": 1937,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 62.4,
+   "Age-adjusted Death Rate": 1695.1
+ },
+ {
+   "Year": 1936,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 60.6,
+   "Age-adjusted Death Rate": 1780.6
+ },
+ {
+   "Year": 1935,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 63.9,
+   "Age-adjusted Death Rate": 1690.6
+ },
+ {
+   "Year": 1934,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 63.3,
+   "Age-adjusted Death Rate": 1720.7
+ },
+ {
+   "Year": 1933,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 65.1,
+   "Age-adjusted Death Rate": 1699.1
+ },
+ {
+   "Year": 1932,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 63.5,
+   "Age-adjusted Death Rate": 1758.4
+ },
+ {
+   "Year": 1931,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 63.1,
+   "Age-adjusted Death Rate": 1743.6
+ },
+ {
+   "Year": 1930,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 61.6,
+   "Age-adjusted Death Rate": 1798.3
+ },
+ {
+   "Year": 1929,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 58.7,
+   "Age-adjusted Death Rate": 1940.9
+ },
+ {
+   "Year": 1928,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 58.3,
+   "Age-adjusted Death Rate": 1990.5
+ },
+ {
+   "Year": 1927,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 62.1,
+   "Age-adjusted Death Rate": 1863.8
+ },
+ {
+   "Year": 1926,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 58,
+   "Age-adjusted Death Rate": 2028
+ },
+ {
+   "Year": 1925,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 60.6,
+   "Age-adjusted Death Rate": 1957.1
+ },
+ {
+   "Year": 1924,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 61.5,
+   "Age-adjusted Death Rate": 1927.2
+ },
+ {
+   "Year": 1923,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 58.5,
+   "Age-adjusted Death Rate": 2050.5
+ },
+ {
+   "Year": 1922,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 61,
+   "Age-adjusted Death Rate": 1965.1
+ },
+ {
+   "Year": 1921,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 61.8,
+   "Age-adjusted Death Rate": 1890.4
+ },
+ {
+   "Year": 1920,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 54.6,
+   "Age-adjusted Death Rate": 2081.3
+ },
+ {
+   "Year": 1919,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 56,
+   "Age-adjusted Death Rate": 1973.1
+ },
+ {
+   "Year": 1918,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 42.2,
+   "Age-adjusted Death Rate": 2342.8
+ },
+ {
+   "Year": 1917,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 54,
+   "Age-adjusted Death Rate": 2119.9
+ },
+ {
+   "Year": 1916,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 54.3,
+   "Age-adjusted Death Rate": 2123.3
+ },
+ {
+   "Year": 1915,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 56.8,
+   "Age-adjusted Death Rate": 2044.3
+ },
+ {
+   "Year": 1914,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 56.8,
+   "Age-adjusted Death Rate": 2009
+ },
+ {
+   "Year": 1913,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 55,
+   "Age-adjusted Death Rate": 2058.1
+ },
+ {
+   "Year": 1912,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 55.9,
+   "Age-adjusted Death Rate": 2067.2
+ },
+ {
+   "Year": 1911,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 54.4,
+   "Age-adjusted Death Rate": 2112.1
+ },
+ {
+   "Year": 1910,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 51.8,
+   "Age-adjusted Death Rate": 2171.3
+ },
+ {
+   "Year": 1909,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 53.8,
+   "Age-adjusted Death Rate": 2111.5
+ },
+ {
+   "Year": 1908,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 52.8,
+   "Age-adjusted Death Rate": 2162.3
+ },
+ {
+   "Year": 1907,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 49.9,
+   "Age-adjusted Death Rate": 2327.3
+ },
+ {
+   "Year": 1906,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 50.8,
+   "Age-adjusted Death Rate": 2244.6
+ },
+ {
+   "Year": 1905,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 50.2,
+   "Age-adjusted Death Rate": 2287.7
+ },
+ {
+   "Year": 1904,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 49.1,
+   "Age-adjusted Death Rate": 2358.8
+ },
+ {
+   "Year": 1903,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 52,
+   "Age-adjusted Death Rate": 2250.6
+ },
+ {
+   "Year": 1902,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 53.4,
+   "Age-adjusted Death Rate": 2162.8
+ },
+ {
+   "Year": 1901,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 50.6,
+   "Age-adjusted Death Rate": 2350.5
+ },
+ {
+   "Year": 1900,
+   "Race": "All Races",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 48.3,
+   "Age-adjusted Death Rate": 2410.4
+ },
+ {
+   "Year": 2015,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": null,
+   "Age-adjusted Death Rate": 863.2
+ },
+ {
+   "Year": 2014,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76.5,
+   "Age-adjusted Death Rate": 855.1
+ },
+ {
+   "Year": 2013,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76.4,
+   "Age-adjusted Death Rate": 863.6
+ },
+ {
+   "Year": 2012,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76.4,
+   "Age-adjusted Death Rate": 865.1
+ },
+ {
+   "Year": 2011,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76.3,
+   "Age-adjusted Death Rate": 875.3
+ },
+ {
+   "Year": 2010,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76.2,
+   "Age-adjusted Death Rate": 887.1
+ },
+ {
+   "Year": 2009,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76,
+   "Age-adjusted Death Rate": 890.9
+ },
+ {
+   "Year": 2008,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 75.6,
+   "Age-adjusted Death Rate": 918.8
+ },
+ {
+   "Year": 2007,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 75.5,
+   "Age-adjusted Death Rate": 922.9
+ },
+ {
+   "Year": 2006,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 75.2,
+   "Age-adjusted Death Rate": 943.4
+ },
+ {
+   "Year": 2005,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 75,
+   "Age-adjusted Death Rate": 971.9
+ },
+ {
+   "Year": 2004,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 75,
+   "Age-adjusted Death Rate": 973.3
+ },
+ {
+   "Year": 2003,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 74.5,
+   "Age-adjusted Death Rate": 1010.3
+ },
+ {
+   "Year": 2002,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 74.4,
+   "Age-adjusted Death Rate": 1030.6
+ },
+ {
+   "Year": 2001,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 74.3,
+   "Age-adjusted Death Rate": 1035.3
+ },
+ {
+   "Year": 2000,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 74.3,
+   "Age-adjusted Death Rate": 1053.8
+ },
+ {
+   "Year": 1999,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 73.9,
+   "Age-adjusted Death Rate": 1067
+ },
+ {
+   "Year": 1998,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 73.8,
+   "Age-adjusted Death Rate": 1068.9
+ },
+ {
+   "Year": 1997,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 73.6,
+   "Age-adjusted Death Rate": 1087.7
+ },
+ {
+   "Year": 1996,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 73.1,
+   "Age-adjusted Death Rate": 1115.2
+ },
+ {
+   "Year": 1995,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72.5,
+   "Age-adjusted Death Rate": 1143.6
+ },
+ {
+   "Year": 1994,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72.4,
+   "Age-adjusted Death Rate": 1155.1
+ },
+ {
+   "Year": 1993,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72.2,
+   "Age-adjusted Death Rate": 1177
+ },
+ {
+   "Year": 1992,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72.3,
+   "Age-adjusted Death Rate": 1158
+ },
+ {
+   "Year": 1991,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72,
+   "Age-adjusted Death Rate": 1180.2
+ },
+ {
+   "Year": 1990,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.8,
+   "Age-adjusted Death Rate": 1202
+ },
+ {
+   "Year": 1989,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.7,
+   "Age-adjusted Death Rate": 1214.2
+ },
+ {
+   "Year": 1988,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.4,
+   "Age-adjusted Death Rate": 1250
+ },
+ {
+   "Year": 1987,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.4,
+   "Age-adjusted Death Rate": 1245.7
+ },
+ {
+   "Year": 1986,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.2,
+   "Age-adjusted Death Rate": 1261.5
+ },
+ {
+   "Year": 1985,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.1,
+   "Age-adjusted Death Rate": 1277.6
+ },
+ {
+   "Year": 1984,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.1,
+   "Age-adjusted Death Rate": 1271
+ },
+ {
+   "Year": 1983,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71,
+   "Age-adjusted Death Rate": 1284.4
+ },
+ {
+   "Year": 1982,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 70.8,
+   "Age-adjusted Death Rate": 1279.9
+ },
+ {
+   "Year": 1981,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 70.4,
+   "Age-adjusted Death Rate": 1308.2
+ },
+ {
+   "Year": 1980,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 70,
+   "Age-adjusted Death Rate": 1347.6
+ },
+ {
+   "Year": 1979,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 70,
+   "Age-adjusted Death Rate": 1316.2
+ },
+ {
+   "Year": 1978,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 69.6,
+   "Age-adjusted Death Rate": 1358.1
+ },
+ {
+   "Year": 1977,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 69.5,
+   "Age-adjusted Death Rate": 1369.3
+ },
+ {
+   "Year": 1976,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 69.1,
+   "Age-adjusted Death Rate": 1404.3
+ },
+ {
+   "Year": 1975,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 68.8,
+   "Age-adjusted Death Rate": 1417.4
+ },
+ {
+   "Year": 1974,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 68.2,
+   "Age-adjusted Death Rate": 1478.5
+ },
+ {
+   "Year": 1973,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.6,
+   "Age-adjusted Death Rate": 1537.5
+ },
+ {
+   "Year": 1972,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.4,
+   "Age-adjusted Death Rate": 1551.1
+ },
+ {
+   "Year": 1971,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.4,
+   "Age-adjusted Death Rate": 1542.5
+ },
+ {
+   "Year": 1970,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.1,
+   "Age-adjusted Death Rate": 1542.1
+ },
+ {
+   "Year": 1969,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.8,
+   "Age-adjusted Death Rate": 1601.4
+ },
+ {
+   "Year": 1968,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.6,
+   "Age-adjusted Death Rate": 1635.2
+ },
+ {
+   "Year": 1967,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67,
+   "Age-adjusted Death Rate": 1591.8
+ },
+ {
+   "Year": 1966,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.7,
+   "Age-adjusted Death Rate": 1624.2
+ },
+ {
+   "Year": 1965,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.8,
+   "Age-adjusted Death Rate": 1614.3
+ },
+ {
+   "Year": 1964,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.8,
+   "Age-adjusted Death Rate": 1597
+ },
+ {
+   "Year": 1963,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.6,
+   "Age-adjusted Death Rate": 1644
+ },
+ {
+   "Year": 1962,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.9,
+   "Age-adjusted Death Rate": 1604.4
+ },
+ {
+   "Year": 1961,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.1,
+   "Age-adjusted Death Rate": 1567.6
+ },
+ {
+   "Year": 1960,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.6,
+   "Age-adjusted Death Rate": 1609
+ },
+ {
+   "Year": 1959,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.8,
+   "Age-adjusted Death Rate": 1573.4
+ },
+ {
+   "Year": 1958,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.6,
+   "Age-adjusted Death Rate": 1596.3
+ },
+ {
+   "Year": 1957,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.4,
+   "Age-adjusted Death Rate": 1606.7
+ },
+ {
+   "Year": 1956,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.7,
+   "Age-adjusted Death Rate": 1575.5
+ },
+ {
+   "Year": 1955,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.7,
+   "Age-adjusted Death Rate": 1565.2
+ },
+ {
+   "Year": 1954,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.7,
+   "Age-adjusted Death Rate": 1540.7
+ },
+ {
+   "Year": 1953,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66,
+   "Age-adjusted Death Rate": 1619
+ },
+ {
+   "Year": 1952,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65.8,
+   "Age-adjusted Death Rate": 1620.8
+ },
+ {
+   "Year": 1951,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65.6,
+   "Age-adjusted Death Rate": 1651.7
+ },
+ {
+   "Year": 1950,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65.6,
+   "Age-adjusted Death Rate": 1674.2
+ },
+ {
+   "Year": 1949,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65.2,
+   "Age-adjusted Death Rate": 1676.7
+ },
+ {
+   "Year": 1948,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.6,
+   "Age-adjusted Death Rate": 1720.5
+ },
+ {
+   "Year": 1947,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.4,
+   "Age-adjusted Death Rate": 1743
+ },
+ {
+   "Year": 1946,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.4,
+   "Age-adjusted Death Rate": 1727.6
+ },
+ {
+   "Year": 1945,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 63.6,
+   "Age-adjusted Death Rate": 1791.6
+ },
+ {
+   "Year": 1944,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 63.6,
+   "Age-adjusted Death Rate": 1821.6
+ },
+ {
+   "Year": 1943,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 62.4,
+   "Age-adjusted Death Rate": 1907.7
+ },
+ {
+   "Year": 1942,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.7,
+   "Age-adjusted Death Rate": 1835.1
+ },
+ {
+   "Year": 1941,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 63.1,
+   "Age-adjusted Death Rate": 1894.3
+ },
+ {
+   "Year": 1940,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60.8,
+   "Age-adjusted Death Rate": 1976
+ },
+ {
+   "Year": 1939,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 62.1,
+   "Age-adjusted Death Rate": 1937.2
+ },
+ {
+   "Year": 1938,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61.9,
+   "Age-adjusted Death Rate": 1932.4
+ },
+ {
+   "Year": 1937,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 58,
+   "Age-adjusted Death Rate": 2072.8
+ },
+ {
+   "Year": 1936,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 56.6,
+   "Age-adjusted Death Rate": 2148.5
+ },
+ {
+   "Year": 1935,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 59.9,
+   "Age-adjusted Death Rate": 2031.2
+ },
+ {
+   "Year": 1934,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 59.3,
+   "Age-adjusted Death Rate": 2056.7
+ },
+ {
+   "Year": 1933,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61.7,
+   "Age-adjusted Death Rate": 2002
+ },
+ {
+   "Year": 1932,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61,
+   "Age-adjusted Death Rate": 2036.4
+ },
+ {
+   "Year": 1931,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 59.4,
+   "Age-adjusted Death Rate": 2047.4
+ },
+ {
+   "Year": 1930,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 58.1,
+   "Age-adjusted Death Rate": 2088.8
+ },
+ {
+   "Year": 1929,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 55.8,
+   "Age-adjusted Death Rate": 2219.7
+ },
+ {
+   "Year": 1928,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 55.6,
+   "Age-adjusted Death Rate": 2256.3
+ },
+ {
+   "Year": 1927,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 59,
+   "Age-adjusted Death Rate": 2113.8
+ },
+ {
+   "Year": 1926,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 55.5,
+   "Age-adjusted Death Rate": 2262.2
+ },
+ {
+   "Year": 1925,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 57.6,
+   "Age-adjusted Death Rate": 2178
+ },
+ {
+   "Year": 1924,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 58.1,
+   "Age-adjusted Death Rate": 2146.9
+ },
+ {
+   "Year": 1923,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 56.1,
+   "Age-adjusted Death Rate": 2229.5
+ },
+ {
+   "Year": 1922,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 58.4,
+   "Age-adjusted Death Rate": 2131.8
+ },
+ {
+   "Year": 1921,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60,
+   "Age-adjusted Death Rate": 2025
+ },
+ {
+   "Year": 1920,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 53.6,
+   "Age-adjusted Death Rate": 2213.2
+ },
+ {
+   "Year": 1919,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 53.5,
+   "Age-adjusted Death Rate": 2141.5
+ },
+ {
+   "Year": 1918,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 36.6,
+   "Age-adjusted Death Rate": 2740.5
+ },
+ {
+   "Year": 1917,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 48.4,
+   "Age-adjusted Death Rate": 2427.8
+ },
+ {
+   "Year": 1916,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 49.6,
+   "Age-adjusted Death Rate": 2406.2
+ },
+ {
+   "Year": 1915,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 52.5,
+   "Age-adjusted Death Rate": 2302.6
+ },
+ {
+   "Year": 1914,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 52,
+   "Age-adjusted Death Rate": 2286.1
+ },
+ {
+   "Year": 1913,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 50.3,
+   "Age-adjusted Death Rate": 2351.2
+ },
+ {
+   "Year": 1912,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 51.5,
+   "Age-adjusted Death Rate": 2352.8
+ },
+ {
+   "Year": 1911,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 50.9,
+   "Age-adjusted Death Rate": 2374.5
+ },
+ {
+   "Year": 1910,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 48.4,
+   "Age-adjusted Death Rate": 2459.9
+ },
+ {
+   "Year": 1909,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 50.5,
+   "Age-adjusted Death Rate": 2385.7
+ },
+ {
+   "Year": 1908,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 49.5,
+   "Age-adjusted Death Rate": 2433.4
+ },
+ {
+   "Year": 1907,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 45.6,
+   "Age-adjusted Death Rate": 2660.3
+ },
+ {
+   "Year": 1906,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 46.9,
+   "Age-adjusted Death Rate": 2553.6
+ },
+ {
+   "Year": 1905,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 47.3,
+   "Age-adjusted Death Rate": 2565.5
+ },
+ {
+   "Year": 1904,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 46.2,
+   "Age-adjusted Death Rate": 2652.9
+ },
+ {
+   "Year": 1903,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 49.1,
+   "Age-adjusted Death Rate": 2513.5
+ },
+ {
+   "Year": 1902,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 49.8,
+   "Age-adjusted Death Rate": 2447.9
+ },
+ {
+   "Year": 1901,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 47.6,
+   "Age-adjusted Death Rate": 2600.5
+ },
+ {
+   "Year": 1900,
+   "Race": "All Races",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 46.3,
+   "Age-adjusted Death Rate": 2630.8
+ },
+ {
+   "Year": 2015,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": null,
+   "Age-adjusted Death Rate": 851.9
+ },
+ {
+   "Year": 2014,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.6,
+   "Age-adjusted Death Rate": 849.3
+ },
+ {
+   "Year": 2013,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.5,
+   "Age-adjusted Death Rate": 860.8
+ },
+ {
+   "Year": 2012,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.5,
+   "Age-adjusted Death Rate": 864.8
+ },
+ {
+   "Year": 2011,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.3,
+   "Age-adjusted Death Rate": 877.1
+ },
+ {
+   "Year": 2010,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.1,
+   "Age-adjusted Death Rate": 898.2
+ },
+ {
+   "Year": 2009,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.7,
+   "Age-adjusted Death Rate": 912.8
+ },
+ {
+   "Year": 2008,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.3,
+   "Age-adjusted Death Rate": 947.6
+ },
+ {
+   "Year": 2007,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 73.8,
+   "Age-adjusted Death Rate": 972
+ },
+ {
+   "Year": 2006,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 73.4,
+   "Age-adjusted Death Rate": 997.9
+ },
+ {
+   "Year": 2005,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 73,
+   "Age-adjusted Death Rate": 1035.1
+ },
+ {
+   "Year": 2004,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 72.9,
+   "Age-adjusted Death Rate": 1043.8
+ },
+ {
+   "Year": 2003,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 72.4,
+   "Age-adjusted Death Rate": 1080.5
+ },
+ {
+   "Year": 2002,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 72.2,
+   "Age-adjusted Death Rate": 1097.3
+ },
+ {
+   "Year": 2001,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 72,
+   "Age-adjusted Death Rate": 1106.2
+ },
+ {
+   "Year": 2000,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71.8,
+   "Age-adjusted Death Rate": 1121.4
+ },
+ {
+   "Year": 1999,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71.4,
+   "Age-adjusted Death Rate": 1135.7
+ },
+ {
+   "Year": 1998,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71.3,
+   "Age-adjusted Death Rate": 1127.1
+ },
+ {
+   "Year": 1997,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71.1,
+   "Age-adjusted Death Rate": 1139.2
+ },
+ {
+   "Year": 1996,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.2,
+   "Age-adjusted Death Rate": 1177.6
+ },
+ {
+   "Year": 1995,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.6,
+   "Age-adjusted Death Rate": 1213.6
+ },
+ {
+   "Year": 1994,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.5,
+   "Age-adjusted Death Rate": 1216.2
+ },
+ {
+   "Year": 1993,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.2,
+   "Age-adjusted Death Rate": 1240.2
+ },
+ {
+   "Year": 1992,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.6,
+   "Age-adjusted Death Rate": 1205.3
+ },
+ {
+   "Year": 1991,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.3,
+   "Age-adjusted Death Rate": 1233.6
+ },
+ {
+   "Year": 1990,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.1,
+   "Age-adjusted Death Rate": 1248.5
+ },
+ {
+   "Year": 1989,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 68.8,
+   "Age-adjusted Death Rate": 1273.5
+ },
+ {
+   "Year": 1988,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 68.9,
+   "Age-adjusted Death Rate": 1281.9
+ },
+ {
+   "Year": 1987,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.1,
+   "Age-adjusted Death Rate": 1260.9
+ },
+ {
+   "Year": 1986,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.1,
+   "Age-adjusted Death Rate": 1264.6
+ },
+ {
+   "Year": 1985,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.3,
+   "Age-adjusted Death Rate": 1259.1
+ },
+ {
+   "Year": 1984,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.5,
+   "Age-adjusted Death Rate": 1234.5
+ },
+ {
+   "Year": 1983,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.4,
+   "Age-adjusted Death Rate": 1239.8
+ },
+ {
+   "Year": 1982,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.4,
+   "Age-adjusted Death Rate": 1220.1
+ },
+ {
+   "Year": 1981,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 68.9,
+   "Age-adjusted Death Rate": 1256.5
+ },
+ {
+   "Year": 1980,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 68.1,
+   "Age-adjusted Death Rate": 1312.9
+ },
+ {
+   "Year": 1979,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 68.5,
+   "Age-adjusted Death Rate": 1238.5
+ },
+ {
+   "Year": 1978,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 68.1,
+   "Age-adjusted Death Rate": 1267.7
+ },
+ {
+   "Year": 1977,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 67.7,
+   "Age-adjusted Death Rate": 1286
+ },
+ {
+   "Year": 1976,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 67.2,
+   "Age-adjusted Death Rate": 1311.2
+ },
+ {
+   "Year": 1975,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 66.8,
+   "Age-adjusted Death Rate": 1327.5
+ },
+ {
+   "Year": 1974,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 66,
+   "Age-adjusted Death Rate": 1397.7
+ },
+ {
+   "Year": 1973,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 65,
+   "Age-adjusted Death Rate": 1473.3
+ },
+ {
+   "Year": 1972,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.7,
+   "Age-adjusted Death Rate": 1486.3
+ },
+ {
+   "Year": 1971,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.6,
+   "Age-adjusted Death Rate": 1481.3
+ },
+ {
+   "Year": 1970,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.1,
+   "Age-adjusted Death Rate": 1518.1
+ },
+ {
+   "Year": 1969,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.5,
+   "Age-adjusted Death Rate": 1570.4
+ },
+ {
+   "Year": 1968,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.1,
+   "Age-adjusted Death Rate": 1615.6
+ },
+ {
+   "Year": 1967,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.9,
+   "Age-adjusted Death Rate": 1466.9
+ },
+ {
+   "Year": 1966,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.2,
+   "Age-adjusted Death Rate": 1529.7
+ },
+ {
+   "Year": 1965,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.3,
+   "Age-adjusted Death Rate": 1508.9
+ },
+ {
+   "Year": 1964,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.2,
+   "Age-adjusted Death Rate": 1507.1
+ },
+ {
+   "Year": 1963,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 63.7,
+   "Age-adjusted Death Rate": 1581.5
+ },
+ {
+   "Year": 1962,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.2,
+   "Age-adjusted Death Rate": 1532
+ },
+ {
+   "Year": 1961,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.5,
+   "Age-adjusted Death Rate": 1492.2
+ },
+ {
+   "Year": 1960,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 63.6,
+   "Age-adjusted Death Rate": 1549
+ },
+ {
+   "Year": 1959,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 63.9,
+   "Age-adjusted Death Rate": 1504.4
+ },
+ {
+   "Year": 1958,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 63.4,
+   "Age-adjusted Death Rate": 1552.1
+ },
+ {
+   "Year": 1957,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 63,
+   "Age-adjusted Death Rate": 1571.7
+ },
+ {
+   "Year": 1956,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 63.6,
+   "Age-adjusted Death Rate": 1519.2
+ },
+ {
+   "Year": 1955,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 63.7,
+   "Age-adjusted Death Rate": 1510.2
+ },
+ {
+   "Year": 1954,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 63.4,
+   "Age-adjusted Death Rate": 1514.8
+ },
+ {
+   "Year": 1953,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 62,
+   "Age-adjusted Death Rate": 1641.2
+ },
+ {
+   "Year": 1952,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 61.4,
+   "Age-adjusted Death Rate": 1671.3
+ },
+ {
+   "Year": 1951,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 61.2,
+   "Age-adjusted Death Rate": 1698.2
+ },
+ {
+   "Year": 1950,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 60.8,
+   "Age-adjusted Death Rate": 1757.6
+ },
+ {
+   "Year": 1949,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 60.6,
+   "Age-adjusted Death Rate": 1739.9
+ },
+ {
+   "Year": 1948,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 60,
+   "Age-adjusted Death Rate": 1766.9
+ },
+ {
+   "Year": 1947,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 59.7,
+   "Age-adjusted Death Rate": 1749.7
+ },
+ {
+   "Year": 1946,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 59.1,
+   "Age-adjusted Death Rate": 1711.7
+ },
+ {
+   "Year": 1945,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 57.7,
+   "Age-adjusted Death Rate": 1808.8
+ },
+ {
+   "Year": 1944,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 56.6,
+   "Age-adjusted Death Rate": 1904.5
+ },
+ {
+   "Year": 1943,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 55.6,
+   "Age-adjusted Death Rate": 2006.9
+ },
+ {
+   "Year": 1942,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 56.6,
+   "Age-adjusted Death Rate": 1988.9
+ },
+ {
+   "Year": 1941,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 53.8,
+   "Age-adjusted Death Rate": 2142.8
+ },
+ {
+   "Year": 1940,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 53.1,
+   "Age-adjusted Death Rate": 2254.1
+ },
+ {
+   "Year": 1939,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 54.5,
+   "Age-adjusted Death Rate": 2157
+ },
+ {
+   "Year": 1938,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 52.9,
+   "Age-adjusted Death Rate": 2217.2
+ },
+ {
+   "Year": 1937,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 50.3,
+   "Age-adjusted Death Rate": 2374
+ },
+ {
+   "Year": 1936,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 49,
+   "Age-adjusted Death Rate": 2496.6
+ },
+ {
+   "Year": 1935,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 53.1,
+   "Age-adjusted Death Rate": 2316
+ },
+ {
+   "Year": 1934,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 51.8,
+   "Age-adjusted Death Rate": 2386.5
+ },
+ {
+   "Year": 1933,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 54.7,
+   "Age-adjusted Death Rate": 2307.9
+ },
+ {
+   "Year": 1932,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 53.7,
+   "Age-adjusted Death Rate": 2397.3
+ },
+ {
+   "Year": 1931,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 50.4,
+   "Age-adjusted Death Rate": 2516
+ },
+ {
+   "Year": 1930,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 48.1,
+   "Age-adjusted Death Rate": 2682.9
+ },
+ {
+   "Year": 1929,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 46.7,
+   "Age-adjusted Death Rate": 2832.6
+ },
+ {
+   "Year": 1928,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 46.3,
+   "Age-adjusted Death Rate": 2835.5
+ },
+ {
+   "Year": 1927,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 48.2,
+   "Age-adjusted Death Rate": 2676.2
+ },
+ {
+   "Year": 1926,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 44.6,
+   "Age-adjusted Death Rate": 2906
+ },
+ {
+   "Year": 1925,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 45.7,
+   "Age-adjusted Death Rate": 2858.7
+ },
+ {
+   "Year": 1924,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 46.6,
+   "Age-adjusted Death Rate": 2806.5
+ },
+ {
+   "Year": 1923,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 48.3,
+   "Age-adjusted Death Rate": 2717.8
+ },
+ {
+   "Year": 1922,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 52.4,
+   "Age-adjusted Death Rate": 2507.8
+ },
+ {
+   "Year": 1921,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 51.5,
+   "Age-adjusted Death Rate": 2459.8
+ },
+ {
+   "Year": 1920,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 45.3,
+   "Age-adjusted Death Rate": 2743.3
+ },
+ {
+   "Year": 1919,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 44.5,
+   "Age-adjusted Death Rate": 2648.5
+ },
+ {
+   "Year": 1918,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 31.1,
+   "Age-adjusted Death Rate": 3411.9
+ },
+ {
+   "Year": 1917,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 38.8,
+   "Age-adjusted Death Rate": 3069.6
+ },
+ {
+   "Year": 1916,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 41.3,
+   "Age-adjusted Death Rate": 2940.3
+ },
+ {
+   "Year": 1915,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 38.9,
+   "Age-adjusted Death Rate": 3021.8
+ },
+ {
+   "Year": 1914,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 38.9,
+   "Age-adjusted Death Rate": 2914.6
+ },
+ {
+   "Year": 1913,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 38.4,
+   "Age-adjusted Death Rate": 2906.6
+ },
+ {
+   "Year": 1912,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 37.9,
+   "Age-adjusted Death Rate": 2959.2
+ },
+ {
+   "Year": 1911,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 36.4,
+   "Age-adjusted Death Rate": 3000.6
+ },
+ {
+   "Year": 1910,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 35.6,
+   "Age-adjusted Death Rate": 2983.5
+ },
+ {
+   "Year": 1909,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 35.7,
+   "Age-adjusted Death Rate": 3006.9
+ },
+ {
+   "Year": 1908,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 34.9,
+   "Age-adjusted Death Rate": 3048.2
+ },
+ {
+   "Year": 1907,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 32.5,
+   "Age-adjusted Death Rate": 3295.1
+ },
+ {
+   "Year": 1906,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 32.9,
+   "Age-adjusted Death Rate": 3223.4
+ },
+ {
+   "Year": 1905,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 31.3,
+   "Age-adjusted Death Rate": 3440.1
+ },
+ {
+   "Year": 1904,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 30.8,
+   "Age-adjusted Death Rate": 3586.2
+ },
+ {
+   "Year": 1903,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 33.1,
+   "Age-adjusted Death Rate": 3373.7
+ },
+ {
+   "Year": 1902,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 34.6,
+   "Age-adjusted Death Rate": 3190.4
+ },
+ {
+   "Year": 1901,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 33.7,
+   "Age-adjusted Death Rate": 3338.4
+ },
+ {
+   "Year": 1900,
+   "Race": "Black",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 33,
+   "Age-adjusted Death Rate": 3423.3
+ },
+ {
+   "Year": 2015,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": null,
+   "Age-adjusted Death Rate": 710.8
+ },
+ {
+   "Year": 2014,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.5,
+   "Age-adjusted Death Rate": 713.3
+ },
+ {
+   "Year": 2013,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.4,
+   "Age-adjusted Death Rate": 720.6
+ },
+ {
+   "Year": 2012,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.4,
+   "Age-adjusted Death Rate": 723.9
+ },
+ {
+   "Year": 2011,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.2,
+   "Age-adjusted Death Rate": 739.8
+ },
+ {
+   "Year": 2010,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78,
+   "Age-adjusted Death Rate": 752.5
+ },
+ {
+   "Year": 2009,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 77.7,
+   "Age-adjusted Death Rate": 763.3
+ },
+ {
+   "Year": 2008,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 77.3,
+   "Age-adjusted Death Rate": 792
+ },
+ {
+   "Year": 2007,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 77,
+   "Age-adjusted Death Rate": 808.1
+ },
+ {
+   "Year": 2006,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 76.7,
+   "Age-adjusted Death Rate": 828.4
+ },
+ {
+   "Year": 2005,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 76.2,
+   "Age-adjusted Death Rate": 862.7
+ },
+ {
+   "Year": 2004,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 76.1,
+   "Age-adjusted Death Rate": 869.8
+ },
+ {
+   "Year": 2003,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75.7,
+   "Age-adjusted Death Rate": 898.3
+ },
+ {
+   "Year": 2002,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75.4,
+   "Age-adjusted Death Rate": 913.5
+ },
+ {
+   "Year": 2001,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75.3,
+   "Age-adjusted Death Rate": 917.9
+ },
+ {
+   "Year": 2000,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75.1,
+   "Age-adjusted Death Rate": 927.6
+ },
+ {
+   "Year": 1999,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.7,
+   "Age-adjusted Death Rate": 933.6
+ },
+ {
+   "Year": 1998,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.8,
+   "Age-adjusted Death Rate": 921
+ },
+ {
+   "Year": 1997,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.7,
+   "Age-adjusted Death Rate": 921.6
+ },
+ {
+   "Year": 1996,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.2,
+   "Age-adjusted Death Rate": 939.6
+ },
+ {
+   "Year": 1995,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.9,
+   "Age-adjusted Death Rate": 955.7
+ },
+ {
+   "Year": 1994,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.9,
+   "Age-adjusted Death Rate": 954
+ },
+ {
+   "Year": 1993,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.7,
+   "Age-adjusted Death Rate": 968.6
+ },
+ {
+   "Year": 1992,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.9,
+   "Age-adjusted Death Rate": 941.4
+ },
+ {
+   "Year": 1991,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.8,
+   "Age-adjusted Death Rate": 961.8
+ },
+ {
+   "Year": 1990,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.6,
+   "Age-adjusted Death Rate": 973.6
+ },
+ {
+   "Year": 1989,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.3,
+   "Age-adjusted Death Rate": 995.8
+ },
+ {
+   "Year": 1988,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.2,
+   "Age-adjusted Death Rate": 1005.4
+ },
+ {
+   "Year": 1987,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.4,
+   "Age-adjusted Death Rate": 988.4
+ },
+ {
+   "Year": 1986,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.4,
+   "Age-adjusted Death Rate": 992.7
+ },
+ {
+   "Year": 1985,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.4,
+   "Age-adjusted Death Rate": 992.2
+ },
+ {
+   "Year": 1984,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.6,
+   "Age-adjusted Death Rate": 974.9
+ },
+ {
+   "Year": 1983,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.5,
+   "Age-adjusted Death Rate": 980.2
+ },
+ {
+   "Year": 1982,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.6,
+   "Age-adjusted Death Rate": 958.8
+ },
+ {
+   "Year": 1981,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.2,
+   "Age-adjusted Death Rate": 985.7
+ },
+ {
+   "Year": 1980,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 72.5,
+   "Age-adjusted Death Rate": 1031.8
+ },
+ {
+   "Year": 1979,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 72.9,
+   "Age-adjusted Death Rate": 967.1
+ },
+ {
+   "Year": 1978,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 72.4,
+   "Age-adjusted Death Rate": 995.1
+ },
+ {
+   "Year": 1977,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 72,
+   "Age-adjusted Death Rate": 1012.2
+ },
+ {
+   "Year": 1976,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 71.6,
+   "Age-adjusted Death Rate": 1031.2
+ },
+ {
+   "Year": 1975,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 71.3,
+   "Age-adjusted Death Rate": 1042.4
+ },
+ {
+   "Year": 1974,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 70.3,
+   "Age-adjusted Death Rate": 1109.7
+ },
+ {
+   "Year": 1973,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 69.3,
+   "Age-adjusted Death Rate": 1179.7
+ },
+ {
+   "Year": 1972,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 69.1,
+   "Age-adjusted Death Rate": 1181.2
+ },
+ {
+   "Year": 1971,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 68.9,
+   "Age-adjusted Death Rate": 1196.8
+ },
+ {
+   "Year": 1970,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 68.3,
+   "Age-adjusted Death Rate": 1228.7
+ },
+ {
+   "Year": 1969,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 68.6,
+   "Age-adjusted Death Rate": 1274.9
+ },
+ {
+   "Year": 1968,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 67.9,
+   "Age-adjusted Death Rate": 1325.6
+ },
+ {
+   "Year": 1967,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 68.5,
+   "Age-adjusted Death Rate": 1209.7
+ },
+ {
+   "Year": 1966,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 67.6,
+   "Age-adjusted Death Rate": 1274.6
+ },
+ {
+   "Year": 1965,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 67.6,
+   "Age-adjusted Death Rate": 1266
+ },
+ {
+   "Year": 1964,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 67.3,
+   "Age-adjusted Death Rate": 1284.1
+ },
+ {
+   "Year": 1963,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 66.6,
+   "Age-adjusted Death Rate": 1347.8
+ },
+ {
+   "Year": 1962,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 66.9,
+   "Age-adjusted Death Rate": 1324.5
+ },
+ {
+   "Year": 1961,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 67.1,
+   "Age-adjusted Death Rate": 1295.9
+ },
+ {
+   "Year": 1960,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 66.3,
+   "Age-adjusted Death Rate": 1340.5
+ },
+ {
+   "Year": 1959,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 66.5,
+   "Age-adjusted Death Rate": 1305
+ },
+ {
+   "Year": 1958,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 65.8,
+   "Age-adjusted Death Rate": 1354.6
+ },
+ {
+   "Year": 1957,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 65.5,
+   "Age-adjusted Death Rate": 1374.6
+ },
+ {
+   "Year": 1956,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 66.1,
+   "Age-adjusted Death Rate": 1331.9
+ },
+ {
+   "Year": 1955,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 66.1,
+   "Age-adjusted Death Rate": 1326.7
+ },
+ {
+   "Year": 1954,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 65.9,
+   "Age-adjusted Death Rate": 1326.3
+ },
+ {
+   "Year": 1953,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 64.5,
+   "Age-adjusted Death Rate": 1434.3
+ },
+ {
+   "Year": 1952,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 63.8,
+   "Age-adjusted Death Rate": 1465
+ },
+ {
+   "Year": 1951,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 63.4,
+   "Age-adjusted Death Rate": 1508.3
+ },
+ {
+   "Year": 1950,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 62.9,
+   "Age-adjusted Death Rate": 1574.1
+ },
+ {
+   "Year": 1949,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 62.7,
+   "Age-adjusted Death Rate": 1572.2
+ },
+ {
+   "Year": 1948,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 62.5,
+   "Age-adjusted Death Rate": 1580
+ },
+ {
+   "Year": 1947,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 61.9,
+   "Age-adjusted Death Rate": 1586.1
+ },
+ {
+   "Year": 1946,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 61,
+   "Age-adjusted Death Rate": 1556.8
+ },
+ {
+   "Year": 1945,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 59.6,
+   "Age-adjusted Death Rate": 1634.8
+ },
+ {
+   "Year": 1944,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 57.7,
+   "Age-adjusted Death Rate": 1733.6
+ },
+ {
+   "Year": 1943,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 56.1,
+   "Age-adjusted Death Rate": 1837.6
+ },
+ {
+   "Year": 1942,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 58.2,
+   "Age-adjusted Death Rate": 1803.7
+ },
+ {
+   "Year": 1941,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 55.3,
+   "Age-adjusted Death Rate": 1945.9
+ },
+ {
+   "Year": 1940,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 54.9,
+   "Age-adjusted Death Rate": 2057.5
+ },
+ {
+   "Year": 1939,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 56,
+   "Age-adjusted Death Rate": 1992.4
+ },
+ {
+   "Year": 1938,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 54.3,
+   "Age-adjusted Death Rate": 2057.1
+ },
+ {
+   "Year": 1937,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 52.5,
+   "Age-adjusted Death Rate": 2158.5
+ },
+ {
+   "Year": 1936,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 51.4,
+   "Age-adjusted Death Rate": 2278.7
+ },
+ {
+   "Year": 1935,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 55.2,
+   "Age-adjusted Death Rate": 2136.5
+ },
+ {
+   "Year": 1934,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 53.7,
+   "Age-adjusted Death Rate": 2213.4
+ },
+ {
+   "Year": 1933,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 56,
+   "Age-adjusted Death Rate": 2174.1
+ },
+ {
+   "Year": 1932,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 54.6,
+   "Age-adjusted Death Rate": 2256.1
+ },
+ {
+   "Year": 1931,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 51.5,
+   "Age-adjusted Death Rate": 2362.8
+ },
+ {
+   "Year": 1930,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 49.2,
+   "Age-adjusted Death Rate": 2530.1
+ },
+ {
+   "Year": 1929,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 47.8,
+   "Age-adjusted Death Rate": 2664.8
+ },
+ {
+   "Year": 1928,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 47,
+   "Age-adjusted Death Rate": 2703.1
+ },
+ {
+   "Year": 1927,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 48.9,
+   "Age-adjusted Death Rate": 2565.5
+ },
+ {
+   "Year": 1926,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 45.6,
+   "Age-adjusted Death Rate": 2778
+ },
+ {
+   "Year": 1925,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 46.7,
+   "Age-adjusted Death Rate": 2741.9
+ },
+ {
+   "Year": 1924,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 47.8,
+   "Age-adjusted Death Rate": 2693.2
+ },
+ {
+   "Year": 1923,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 48.9,
+   "Age-adjusted Death Rate": 2657.8
+ },
+ {
+   "Year": 1922,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 53,
+   "Age-adjusted Death Rate": 2476.1
+ },
+ {
+   "Year": 1921,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 51.3,
+   "Age-adjusted Death Rate": 2475
+ },
+ {
+   "Year": 1920,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 45.2,
+   "Age-adjusted Death Rate": 2756.2
+ },
+ {
+   "Year": 1919,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 44.4,
+   "Age-adjusted Death Rate": 2663.2
+ },
+ {
+   "Year": 1918,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 32.5,
+   "Age-adjusted Death Rate": 3304.3
+ },
+ {
+   "Year": 1917,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 40.8,
+   "Age-adjusted Death Rate": 2970.6
+ },
+ {
+   "Year": 1916,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 43.1,
+   "Age-adjusted Death Rate": 2853.6
+ },
+ {
+   "Year": 1915,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 40.5,
+   "Age-adjusted Death Rate": 2948.8
+ },
+ {
+   "Year": 1914,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 40.8,
+   "Age-adjusted Death Rate": 2810.1
+ },
+ {
+   "Year": 1913,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 40.3,
+   "Age-adjusted Death Rate": 2802.7
+ },
+ {
+   "Year": 1912,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 40,
+   "Age-adjusted Death Rate": 2807.7
+ },
+ {
+   "Year": 1911,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 38.2,
+   "Age-adjusted Death Rate": 2899.8
+ },
+ {
+   "Year": 1910,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 37.5,
+   "Age-adjusted Death Rate": 2875.3
+ },
+ {
+   "Year": 1909,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 37.3,
+   "Age-adjusted Death Rate": 2875.6
+ },
+ {
+   "Year": 1908,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 36,
+   "Age-adjusted Death Rate": 2963.6
+ },
+ {
+   "Year": 1907,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 34,
+   "Age-adjusted Death Rate": 3179.3
+ },
+ {
+   "Year": 1906,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 33.9,
+   "Age-adjusted Death Rate": 3115.4
+ },
+ {
+   "Year": 1905,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 33.1,
+   "Age-adjusted Death Rate": 3247.5
+ },
+ {
+   "Year": 1904,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 32.7,
+   "Age-adjusted Death Rate": 3362.4
+ },
+ {
+   "Year": 1903,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 34.6,
+   "Age-adjusted Death Rate": 3210.9
+ },
+ {
+   "Year": 1902,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 36.4,
+   "Age-adjusted Death Rate": 3003.4
+ },
+ {
+   "Year": 1901,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 35.3,
+   "Age-adjusted Death Rate": 3167.2
+ },
+ {
+   "Year": 1900,
+   "Race": "Black",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 33.5,
+   "Age-adjusted Death Rate": 3308
+ },
+ {
+   "Year": 2015,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": null,
+   "Age-adjusted Death Rate": 1040.3
+ },
+ {
+   "Year": 2014,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72.5,
+   "Age-adjusted Death Rate": 1034
+ },
+ {
+   "Year": 2013,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72.3,
+   "Age-adjusted Death Rate": 1052.8
+ },
+ {
+   "Year": 2012,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72.3,
+   "Age-adjusted Death Rate": 1058.6
+ },
+ {
+   "Year": 2011,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72.2,
+   "Age-adjusted Death Rate": 1067.1
+ },
+ {
+   "Year": 2010,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.8,
+   "Age-adjusted Death Rate": 1104
+ },
+ {
+   "Year": 2009,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.4,
+   "Age-adjusted Death Rate": 1123.1
+ },
+ {
+   "Year": 2008,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 70.9,
+   "Age-adjusted Death Rate": 1168
+ },
+ {
+   "Year": 2007,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 70.3,
+   "Age-adjusted Death Rate": 1204.8
+ },
+ {
+   "Year": 2006,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 69.9,
+   "Age-adjusted Death Rate": 1239.5
+ },
+ {
+   "Year": 2005,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 69.5,
+   "Age-adjusted Death Rate": 1281.3
+ },
+ {
+   "Year": 2004,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 69.4,
+   "Age-adjusted Death Rate": 1296.9
+ },
+ {
+   "Year": 2003,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 68.9,
+   "Age-adjusted Death Rate": 1343.5
+ },
+ {
+   "Year": 2002,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 68.7,
+   "Age-adjusted Death Rate": 1364.8
+ },
+ {
+   "Year": 2001,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 68.5,
+   "Age-adjusted Death Rate": 1380.5
+ },
+ {
+   "Year": 2000,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 68.2,
+   "Age-adjusted Death Rate": 1403.5
+ },
+ {
+   "Year": 1999,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.8,
+   "Age-adjusted Death Rate": 1432.6
+ },
+ {
+   "Year": 1998,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.6,
+   "Age-adjusted Death Rate": 1429.8
+ },
+ {
+   "Year": 1997,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.2,
+   "Age-adjusted Death Rate": 1458.2
+ },
+ {
+   "Year": 1996,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.1,
+   "Age-adjusted Death Rate": 1523.2
+ },
+ {
+   "Year": 1995,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65.2,
+   "Age-adjusted Death Rate": 1585.2
+ },
+ {
+   "Year": 1994,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.9,
+   "Age-adjusted Death Rate": 1591.9
+ },
+ {
+   "Year": 1993,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.6,
+   "Age-adjusted Death Rate": 1631.1
+ },
+ {
+   "Year": 1992,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65,
+   "Age-adjusted Death Rate": 1586.2
+ },
+ {
+   "Year": 1991,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.6,
+   "Age-adjusted Death Rate": 1624.1
+ },
+ {
+   "Year": 1990,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.5,
+   "Age-adjusted Death Rate": 1642.4
+ },
+ {
+   "Year": 1989,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.3,
+   "Age-adjusted Death Rate": 1666.1
+ },
+ {
+   "Year": 1988,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.4,
+   "Age-adjusted Death Rate": 1673.1
+ },
+ {
+   "Year": 1987,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.7,
+   "Age-adjusted Death Rate": 1646.3
+ },
+ {
+   "Year": 1986,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.8,
+   "Age-adjusted Death Rate": 1648.4
+ },
+ {
+   "Year": 1985,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65,
+   "Age-adjusted Death Rate": 1632.9
+ },
+ {
+   "Year": 1984,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65.3,
+   "Age-adjusted Death Rate": 1597.1
+ },
+ {
+   "Year": 1983,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65.2,
+   "Age-adjusted Death Rate": 1600.5
+ },
+ {
+   "Year": 1982,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65.1,
+   "Age-adjusted Death Rate": 1580
+ },
+ {
+   "Year": 1981,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.5,
+   "Age-adjusted Death Rate": 1626.6
+ },
+ {
+   "Year": 1980,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 63.8,
+   "Age-adjusted Death Rate": 1695.5
+ },
+ {
+   "Year": 1979,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64,
+   "Age-adjusted Death Rate": 1601.5
+ },
+ {
+   "Year": 1978,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 63.7,
+   "Age-adjusted Death Rate": 1626.9
+ },
+ {
+   "Year": 1977,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 63.4,
+   "Age-adjusted Death Rate": 1647.9
+ },
+ {
+   "Year": 1976,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 62.9,
+   "Age-adjusted Death Rate": 1676
+ },
+ {
+   "Year": 1975,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 62.4,
+   "Age-adjusted Death Rate": 1697
+ },
+ {
+   "Year": 1974,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61.7,
+   "Age-adjusted Death Rate": 1769.5
+ },
+ {
+   "Year": 1973,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60.9,
+   "Age-adjusted Death Rate": 1849.5
+ },
+ {
+   "Year": 1972,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60.4,
+   "Age-adjusted Death Rate": 1871.8
+ },
+ {
+   "Year": 1971,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60.5,
+   "Age-adjusted Death Rate": 1836.1
+ },
+ {
+   "Year": 1970,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60,
+   "Age-adjusted Death Rate": 1873.9
+ },
+ {
+   "Year": 1969,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60.6,
+   "Age-adjusted Death Rate": 1934.4
+ },
+ {
+   "Year": 1968,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60.4,
+   "Age-adjusted Death Rate": 1976.8
+ },
+ {
+   "Year": 1967,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61.4,
+   "Age-adjusted Death Rate": 1767.2
+ },
+ {
+   "Year": 1966,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60.9,
+   "Age-adjusted Death Rate": 1832.4
+ },
+ {
+   "Year": 1965,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61.2,
+   "Age-adjusted Death Rate": 1791
+ },
+ {
+   "Year": 1964,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61.3,
+   "Age-adjusted Death Rate": 1768.1
+ },
+ {
+   "Year": 1963,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61,
+   "Age-adjusted Death Rate": 1859
+ },
+ {
+   "Year": 1962,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61.6,
+   "Age-adjusted Death Rate": 1775.4
+ },
+ {
+   "Year": 1961,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 62,
+   "Age-adjusted Death Rate": 1713.3
+ },
+ {
+   "Year": 1960,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61.1,
+   "Age-adjusted Death Rate": 1777.6
+ },
+ {
+   "Year": 1959,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61.3,
+   "Age-adjusted Death Rate": 1724.7
+ },
+ {
+   "Year": 1958,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61,
+   "Age-adjusted Death Rate": 1779.2
+ },
+ {
+   "Year": 1957,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60.7,
+   "Age-adjusted Death Rate": 1797
+ },
+ {
+   "Year": 1956,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61.3,
+   "Age-adjusted Death Rate": 1724.1
+ },
+ {
+   "Year": 1955,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61.4,
+   "Age-adjusted Death Rate": 1707.5
+ },
+ {
+   "Year": 1954,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61.1,
+   "Age-adjusted Death Rate": 1726.6
+ },
+ {
+   "Year": 1953,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 59.7,
+   "Age-adjusted Death Rate": 1863.1
+ },
+ {
+   "Year": 1952,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 59.1,
+   "Age-adjusted Death Rate": 1894.1
+ },
+ {
+   "Year": 1951,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 59.2,
+   "Age-adjusted Death Rate": 1903.4
+ },
+ {
+   "Year": 1950,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 59.1,
+   "Age-adjusted Death Rate": 1949.5
+ },
+ {
+   "Year": 1949,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 58.9,
+   "Age-adjusted Death Rate": 1915.4
+ },
+ {
+   "Year": 1948,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 58.1,
+   "Age-adjusted Death Rate": 1954.3
+ },
+ {
+   "Year": 1947,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 57.9,
+   "Age-adjusted Death Rate": 1922.8
+ },
+ {
+   "Year": 1946,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 57.5,
+   "Age-adjusted Death Rate": 1878.6
+ },
+ {
+   "Year": 1945,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 56.1,
+   "Age-adjusted Death Rate": 2002.7
+ },
+ {
+   "Year": 1944,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 55.8,
+   "Age-adjusted Death Rate": 2084.9
+ },
+ {
+   "Year": 1943,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 55.4,
+   "Age-adjusted Death Rate": 2189.9
+ },
+ {
+   "Year": 1942,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 55.4,
+   "Age-adjusted Death Rate": 2187.8
+ },
+ {
+   "Year": 1941,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 52.5,
+   "Age-adjusted Death Rate": 2351.1
+ },
+ {
+   "Year": 1940,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 51.5,
+   "Age-adjusted Death Rate": 2458.9
+ },
+ {
+   "Year": 1939,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 53.2,
+   "Age-adjusted Death Rate": 2328.1
+ },
+ {
+   "Year": 1938,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 51.7,
+   "Age-adjusted Death Rate": 2384.3
+ },
+ {
+   "Year": 1937,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 48.3,
+   "Age-adjusted Death Rate": 2596.1
+ },
+ {
+   "Year": 1936,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 47,
+   "Age-adjusted Death Rate": 2722.4
+ },
+ {
+   "Year": 1935,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 51.3,
+   "Age-adjusted Death Rate": 2502.9
+ },
+ {
+   "Year": 1934,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 50.2,
+   "Age-adjusted Death Rate": 2567.5
+ },
+ {
+   "Year": 1933,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 53.5,
+   "Age-adjusted Death Rate": 2452.1
+ },
+ {
+   "Year": 1932,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 52.8,
+   "Age-adjusted Death Rate": 2550
+ },
+ {
+   "Year": 1931,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 49.5,
+   "Age-adjusted Death Rate": 2680.3
+ },
+ {
+   "Year": 1930,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 47.3,
+   "Age-adjusted Death Rate": 2845.5
+ },
+ {
+   "Year": 1929,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 45.7,
+   "Age-adjusted Death Rate": 3012.6
+ },
+ {
+   "Year": 1928,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 45.6,
+   "Age-adjusted Death Rate": 2980.3
+ },
+ {
+   "Year": 1927,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 47.6,
+   "Age-adjusted Death Rate": 2801.1
+ },
+ {
+   "Year": 1926,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 43.7,
+   "Age-adjusted Death Rate": 3054.7
+ },
+ {
+   "Year": 1925,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 44.9,
+   "Age-adjusted Death Rate": 3000.7
+ },
+ {
+   "Year": 1924,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 45.5,
+   "Age-adjusted Death Rate": 2947
+ },
+ {
+   "Year": 1923,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 47.7,
+   "Age-adjusted Death Rate": 2803.9
+ },
+ {
+   "Year": 1922,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 51.8,
+   "Age-adjusted Death Rate": 2560.4
+ },
+ {
+   "Year": 1921,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 51.6,
+   "Age-adjusted Death Rate": 2461.2
+ },
+ {
+   "Year": 1920,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 45.5,
+   "Age-adjusted Death Rate": 2748.4
+ },
+ {
+   "Year": 1919,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 44.5,
+   "Age-adjusted Death Rate": 2650
+ },
+ {
+   "Year": 1918,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 29.9,
+   "Age-adjusted Death Rate": 3532.5
+ },
+ {
+   "Year": 1917,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 37,
+   "Age-adjusted Death Rate": 3172.8
+ },
+ {
+   "Year": 1916,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 39.6,
+   "Age-adjusted Death Rate": 3035.1
+ },
+ {
+   "Year": 1915,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 37.5,
+   "Age-adjusted Death Rate": 3104.1
+ },
+ {
+   "Year": 1914,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 37.1,
+   "Age-adjusted Death Rate": 3017.4
+ },
+ {
+   "Year": 1913,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 36.7,
+   "Age-adjusted Death Rate": 3011.9
+ },
+ {
+   "Year": 1912,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 35.9,
+   "Age-adjusted Death Rate": 3114.2
+ },
+ {
+   "Year": 1911,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 34.6,
+   "Age-adjusted Death Rate": 3094.2
+ },
+ {
+   "Year": 1910,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 33.8,
+   "Age-adjusted Death Rate": 3087.5
+ },
+ {
+   "Year": 1909,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 34.2,
+   "Age-adjusted Death Rate": 3149
+ },
+ {
+   "Year": 1908,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 33.8,
+   "Age-adjusted Death Rate": 3140
+ },
+ {
+   "Year": 1907,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 31.1,
+   "Age-adjusted Death Rate": 3408.1
+ },
+ {
+   "Year": 1906,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 31.8,
+   "Age-adjusted Death Rate": 3341
+ },
+ {
+   "Year": 1905,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 29.6,
+   "Age-adjusted Death Rate": 3654.7
+ },
+ {
+   "Year": 1904,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 29.1,
+   "Age-adjusted Death Rate": 3845.7
+ },
+ {
+   "Year": 1903,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 31.7,
+   "Age-adjusted Death Rate": 3546.5
+ },
+ {
+   "Year": 1902,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 32.9,
+   "Age-adjusted Death Rate": 3399.8
+ },
+ {
+   "Year": 1901,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 32.2,
+   "Age-adjusted Death Rate": 3524.8
+ },
+ {
+   "Year": 1900,
+   "Race": "Black",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 32.5,
+   "Age-adjusted Death Rate": 3576.5
+ },
+ {
+   "Year": 2015,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": null,
+   "Age-adjusted Death Rate": 735
+ },
+ {
+   "Year": 2014,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 79.1,
+   "Age-adjusted Death Rate": 725.4
+ },
+ {
+   "Year": 2013,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 79.1,
+   "Age-adjusted Death Rate": 731
+ },
+ {
+   "Year": 2012,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 79.1,
+   "Age-adjusted Death Rate": 730.9
+ },
+ {
+   "Year": 2011,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 79,
+   "Age-adjusted Death Rate": 738.8
+ },
+ {
+   "Year": 2010,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.9,
+   "Age-adjusted Death Rate": 741.8
+ },
+ {
+   "Year": 2009,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.8,
+   "Age-adjusted Death Rate": 742.8
+ },
+ {
+   "Year": 2008,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.5,
+   "Age-adjusted Death Rate": 767.2
+ },
+ {
+   "Year": 2007,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.5,
+   "Age-adjusted Death Rate": 764.3
+ },
+ {
+   "Year": 2006,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.3,
+   "Age-adjusted Death Rate": 779.3
+ },
+ {
+   "Year": 2005,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78,
+   "Age-adjusted Death Rate": 801.1
+ },
+ {
+   "Year": 2004,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 78.1,
+   "Age-adjusted Death Rate": 798.5
+ },
+ {
+   "Year": 2003,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 77.7,
+   "Age-adjusted Death Rate": 827.1
+ },
+ {
+   "Year": 2002,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 77.5,
+   "Age-adjusted Death Rate": 839
+ },
+ {
+   "Year": 2001,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 77.5,
+   "Age-adjusted Death Rate": 840.7
+ },
+ {
+   "Year": 2000,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 77.3,
+   "Age-adjusted Death Rate": 849.8
+ },
+ {
+   "Year": 1999,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 77.3,
+   "Age-adjusted Death Rate": 854.6
+ },
+ {
+   "Year": 1998,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 77.3,
+   "Age-adjusted Death Rate": 848.9
+ },
+ {
+   "Year": 1997,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 77.1,
+   "Age-adjusted Death Rate": 855.4
+ },
+ {
+   "Year": 1996,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 76.8,
+   "Age-adjusted Death Rate": 868.7
+ },
+ {
+   "Year": 1995,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 76.5,
+   "Age-adjusted Death Rate": 882
+ },
+ {
+   "Year": 1994,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 76.5,
+   "Age-adjusted Death Rate": 885.3
+ },
+ {
+   "Year": 1993,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 76.3,
+   "Age-adjusted Death Rate": 896.8
+ },
+ {
+   "Year": 1992,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 76.5,
+   "Age-adjusted Death Rate": 877.5
+ },
+ {
+   "Year": 1991,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 76.3,
+   "Age-adjusted Death Rate": 893
+ },
+ {
+   "Year": 1990,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 76.1,
+   "Age-adjusted Death Rate": 909.2
+ },
+ {
+   "Year": 1989,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.9,
+   "Age-adjusted Death Rate": 919.8
+ },
+ {
+   "Year": 1988,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.6,
+   "Age-adjusted Death Rate": 947.2
+ },
+ {
+   "Year": 1987,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.6,
+   "Age-adjusted Death Rate": 943.2
+ },
+ {
+   "Year": 1986,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.4,
+   "Age-adjusted Death Rate": 952.8
+ },
+ {
+   "Year": 1985,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.3,
+   "Age-adjusted Death Rate": 963.4
+ },
+ {
+   "Year": 1984,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.3,
+   "Age-adjusted Death Rate": 959.4
+ },
+ {
+   "Year": 1983,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.2,
+   "Age-adjusted Death Rate": 967.4
+ },
+ {
+   "Year": 1982,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 75.1,
+   "Age-adjusted Death Rate": 963.5
+ },
+ {
+   "Year": 1981,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.8,
+   "Age-adjusted Death Rate": 984
+ },
+ {
+   "Year": 1980,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.4,
+   "Age-adjusted Death Rate": 1012.5
+ },
+ {
+   "Year": 1979,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.6,
+   "Age-adjusted Death Rate": 986.8
+ },
+ {
+   "Year": 1978,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74.1,
+   "Age-adjusted Death Rate": 1020.1
+ },
+ {
+   "Year": 1977,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 74,
+   "Age-adjusted Death Rate": 1027.1
+ },
+ {
+   "Year": 1976,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 73.6,
+   "Age-adjusted Death Rate": 1060
+ },
+ {
+   "Year": 1975,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 73.4,
+   "Age-adjusted Death Rate": 1069.4
+ },
+ {
+   "Year": 1974,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 72.8,
+   "Age-adjusted Death Rate": 1125.2
+ },
+ {
+   "Year": 1973,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 72.2,
+   "Age-adjusted Death Rate": 1171.5
+ },
+ {
+   "Year": 1972,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 72,
+   "Age-adjusted Death Rate": 1185.3
+ },
+ {
+   "Year": 1971,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 72,
+   "Age-adjusted Death Rate": 1183.8
+ },
+ {
+   "Year": 1970,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71.7,
+   "Age-adjusted Death Rate": 1193.3
+ },
+ {
+   "Year": 1969,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71.4,
+   "Age-adjusted Death Rate": 1240.2
+ },
+ {
+   "Year": 1968,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71.1,
+   "Age-adjusted Death Rate": 1271.4
+ },
+ {
+   "Year": 1967,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71.4,
+   "Age-adjusted Death Rate": 1246.4
+ },
+ {
+   "Year": 1966,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71.1,
+   "Age-adjusted Death Rate": 1278.7
+ },
+ {
+   "Year": 1965,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71.1,
+   "Age-adjusted Death Rate": 1278.3
+ },
+ {
+   "Year": 1964,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71,
+   "Age-adjusted Death Rate": 1275.2
+ },
+ {
+   "Year": 1963,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.8,
+   "Age-adjusted Death Rate": 1312.5
+ },
+ {
+   "Year": 1962,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.9,
+   "Age-adjusted Death Rate": 1292.4
+ },
+ {
+   "Year": 1961,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 71,
+   "Age-adjusted Death Rate": 1272.2
+ },
+ {
+   "Year": 1960,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.6,
+   "Age-adjusted Death Rate": 1311.3
+ },
+ {
+   "Year": 1959,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.7,
+   "Age-adjusted Death Rate": 1291.9
+ },
+ {
+   "Year": 1958,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.5,
+   "Age-adjusted Death Rate": 1316.3
+ },
+ {
+   "Year": 1957,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.3,
+   "Age-adjusted Death Rate": 1328.7
+ },
+ {
+   "Year": 1956,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.5,
+   "Age-adjusted Death Rate": 1309
+ },
+ {
+   "Year": 1955,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.5,
+   "Age-adjusted Death Rate": 1308.3
+ },
+ {
+   "Year": 1954,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 70.5,
+   "Age-adjusted Death Rate": 1288.6
+ },
+ {
+   "Year": 1953,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.7,
+   "Age-adjusted Death Rate": 1354.6
+ },
+ {
+   "Year": 1952,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.5,
+   "Age-adjusted Death Rate": 1361.7
+ },
+ {
+   "Year": 1951,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.3,
+   "Age-adjusted Death Rate": 1391
+ },
+ {
+   "Year": 1950,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 69.1,
+   "Age-adjusted Death Rate": 1410.8
+ },
+ {
+   "Year": 1949,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 68.8,
+   "Age-adjusted Death Rate": 1424.3
+ },
+ {
+   "Year": 1948,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 68,
+   "Age-adjusted Death Rate": 1469.9
+ },
+ {
+   "Year": 1947,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 67.6,
+   "Age-adjusted Death Rate": 1503.5
+ },
+ {
+   "Year": 1946,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 67.5,
+   "Age-adjusted Death Rate": 1505
+ },
+ {
+   "Year": 1945,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 66.8,
+   "Age-adjusted Death Rate": 1544.3
+ },
+ {
+   "Year": 1944,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 66.2,
+   "Age-adjusted Death Rate": 1582.8
+ },
+ {
+   "Year": 1943,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.2,
+   "Age-adjusted Death Rate": 1665.8
+ },
+ {
+   "Year": 1942,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 67.3,
+   "Age-adjusted Death Rate": 1594.8
+ },
+ {
+   "Year": 1941,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 66.2,
+   "Age-adjusted Death Rate": 1645
+ },
+ {
+   "Year": 1940,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.2,
+   "Age-adjusted Death Rate": 1735.3
+ },
+ {
+   "Year": 1939,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.9,
+   "Age-adjusted Death Rate": 1724
+ },
+ {
+   "Year": 1938,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 65,
+   "Age-adjusted Death Rate": 1714.8
+ },
+ {
+   "Year": 1937,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 61.4,
+   "Age-adjusted Death Rate": 1829.1
+ },
+ {
+   "Year": 1936,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 59.8,
+   "Age-adjusted Death Rate": 1906.6
+ },
+ {
+   "Year": 1935,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 62.9,
+   "Age-adjusted Death Rate": 1809.9
+ },
+ {
+   "Year": 1934,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 62.4,
+   "Age-adjusted Death Rate": 1834
+ },
+ {
+   "Year": 1933,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 64.3,
+   "Age-adjusted Death Rate": 1800.5
+ },
+ {
+   "Year": 1932,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 63.2,
+   "Age-adjusted Death Rate": 1845.1
+ },
+ {
+   "Year": 1931,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 62.6,
+   "Age-adjusted Death Rate": 1832.5
+ },
+ {
+   "Year": 1930,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 61.4,
+   "Age-adjusted Death Rate": 1870.7
+ },
+ {
+   "Year": 1929,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 58.6,
+   "Age-adjusted Death Rate": 2006.8
+ },
+ {
+   "Year": 1928,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 58.4,
+   "Age-adjusted Death Rate": 2053
+ },
+ {
+   "Year": 1927,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 62,
+   "Age-adjusted Death Rate": 1925.6
+ },
+ {
+   "Year": 1926,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 58.2,
+   "Age-adjusted Death Rate": 2078.8
+ },
+ {
+   "Year": 1925,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 60.7,
+   "Age-adjusted Death Rate": 1999.1
+ },
+ {
+   "Year": 1924,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 61.4,
+   "Age-adjusted Death Rate": 1968.7
+ },
+ {
+   "Year": 1923,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 58.3,
+   "Age-adjusted Death Rate": 2087
+ },
+ {
+   "Year": 1922,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 60.4,
+   "Age-adjusted Death Rate": 2004.4
+ },
+ {
+   "Year": 1921,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 61.8,
+   "Age-adjusted Death Rate": 1914.9
+ },
+ {
+   "Year": 1920,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 54.9,
+   "Age-adjusted Death Rate": 2096.3
+ },
+ {
+   "Year": 1919,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 55.8,
+   "Age-adjusted Death Rate": 2005.6
+ },
+ {
+   "Year": 1918,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 39.8,
+   "Age-adjusted Death Rate": 2477.7
+ },
+ {
+   "Year": 1917,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 52,
+   "Age-adjusted Death Rate": 2221.5
+ },
+ {
+   "Year": 1916,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 52.5,
+   "Age-adjusted Death Rate": 2223.9
+ },
+ {
+   "Year": 1915,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 55.1,
+   "Age-adjusted Death Rate": 2139.4
+ },
+ {
+   "Year": 1914,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 54.9,
+   "Age-adjusted Death Rate": 2116.8
+ },
+ {
+   "Year": 1913,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 53,
+   "Age-adjusted Death Rate": 2176.7
+ },
+ {
+   "Year": 1912,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 53.9,
+   "Age-adjusted Death Rate": 2187.9
+ },
+ {
+   "Year": 1911,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 53,
+   "Age-adjusted Death Rate": 2221.3
+ },
+ {
+   "Year": 1910,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 50.3,
+   "Age-adjusted Death Rate": 2299.4
+ },
+ {
+   "Year": 1909,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 52.5,
+   "Age-adjusted Death Rate": 2228.5
+ },
+ {
+   "Year": 1908,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 51.5,
+   "Age-adjusted Death Rate": 2278.1
+ },
+ {
+   "Year": 1907,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 48.1,
+   "Age-adjusted Death Rate": 2470.8
+ },
+ {
+   "Year": 1906,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 49.3,
+   "Age-adjusted Death Rate": 2374.8
+ },
+ {
+   "Year": 1905,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 49.1,
+   "Age-adjusted Death Rate": 2404.1
+ },
+ {
+   "Year": 1904,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 48,
+   "Age-adjusted Death Rate": 2481.9
+ },
+ {
+   "Year": 1903,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 50.9,
+   "Age-adjusted Death Rate": 2359.8
+ },
+ {
+   "Year": 1902,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 51.9,
+   "Age-adjusted Death Rate": 2284.3
+ },
+ {
+   "Year": 1901,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 49.4,
+   "Age-adjusted Death Rate": 2456.2
+ },
+ {
+   "Year": 1900,
+   "Race": "White",
+   "Sex": "Both Sexes",
+   "Average Life Expectancy (Years)": 47.6,
+   "Age-adjusted Death Rate": 2501.2
+ },
+ {
+   "Year": 2015,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": null,
+   "Age-adjusted Death Rate": 627
+ },
+ {
+   "Year": 2014,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 81.4,
+   "Age-adjusted Death Rate": 617.6
+ },
+ {
+   "Year": 2013,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 81.4,
+   "Age-adjusted Death Rate": 623.6
+ },
+ {
+   "Year": 2012,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 81.4,
+   "Age-adjusted Death Rate": 623.8
+ },
+ {
+   "Year": 2011,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 81.3,
+   "Age-adjusted Death Rate": 630.3
+ },
+ {
+   "Year": 2010,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 81.3,
+   "Age-adjusted Death Rate": 630.8
+ },
+ {
+   "Year": 2009,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 81.2,
+   "Age-adjusted Death Rate": 631.3
+ },
+ {
+   "Year": 2008,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80.9,
+   "Age-adjusted Death Rate": 653.7
+ },
+ {
+   "Year": 2007,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80.9,
+   "Age-adjusted Death Rate": 649.4
+ },
+ {
+   "Year": 2006,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80.7,
+   "Age-adjusted Death Rate": 662.3
+ },
+ {
+   "Year": 2005,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80.5,
+   "Age-adjusted Death Rate": 680.9
+ },
+ {
+   "Year": 2004,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80.5,
+   "Age-adjusted Death Rate": 677.7
+ },
+ {
+   "Year": 2003,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80.2,
+   "Age-adjusted Death Rate": 701.6
+ },
+ {
+   "Year": 2002,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80.1,
+   "Age-adjusted Death Rate": 709.3
+ },
+ {
+   "Year": 2001,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80,
+   "Age-adjusted Death Rate": 710.4
+ },
+ {
+   "Year": 2000,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.9,
+   "Age-adjusted Death Rate": 715.3
+ },
+ {
+   "Year": 1999,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.9,
+   "Age-adjusted Death Rate": 716.6
+ },
+ {
+   "Year": 1998,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 80,
+   "Age-adjusted Death Rate": 706.9
+ },
+ {
+   "Year": 1997,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.9,
+   "Age-adjusted Death Rate": 707.5
+ },
+ {
+   "Year": 1996,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.7,
+   "Age-adjusted Death Rate": 713.3
+ },
+ {
+   "Year": 1995,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.6,
+   "Age-adjusted Death Rate": 718.4
+ },
+ {
+   "Year": 1994,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.6,
+   "Age-adjusted Death Rate": 717.3
+ },
+ {
+   "Year": 1993,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.5,
+   "Age-adjusted Death Rate": 723.9
+ },
+ {
+   "Year": 1992,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.8,
+   "Age-adjusted Death Rate": 703.9
+ },
+ {
+   "Year": 1991,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.6,
+   "Age-adjusted Death Rate": 715.9
+ },
+ {
+   "Year": 1990,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.4,
+   "Age-adjusted Death Rate": 728.3
+ },
+ {
+   "Year": 1989,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 79.2,
+   "Age-adjusted Death Rate": 738.3
+ },
+ {
+   "Year": 1988,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.9,
+   "Age-adjusted Death Rate": 758.7
+ },
+ {
+   "Year": 1987,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.9,
+   "Age-adjusted Death Rate": 753.2
+ },
+ {
+   "Year": 1986,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.8,
+   "Age-adjusted Death Rate": 758
+ },
+ {
+   "Year": 1985,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.7,
+   "Age-adjusted Death Rate": 764.2
+ },
+ {
+   "Year": 1984,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.7,
+   "Age-adjusted Death Rate": 760.5
+ },
+ {
+   "Year": 1983,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.7,
+   "Age-adjusted Death Rate": 764.1
+ },
+ {
+   "Year": 1982,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.7,
+   "Age-adjusted Death Rate": 758.6
+ },
+ {
+   "Year": 1981,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.4,
+   "Age-adjusted Death Rate": 773.6
+ },
+ {
+   "Year": 1980,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.1,
+   "Age-adjusted Death Rate": 796
+ },
+ {
+   "Year": 1979,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78.4,
+   "Age-adjusted Death Rate": 770.1
+ },
+ {
+   "Year": 1978,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 78,
+   "Age-adjusted Death Rate": 796.6
+ },
+ {
+   "Year": 1977,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 77.9,
+   "Age-adjusted Death Rate": 799.7
+ },
+ {
+   "Year": 1976,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 77.5,
+   "Age-adjusted Death Rate": 828.9
+ },
+ {
+   "Year": 1975,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 77.3,
+   "Age-adjusted Death Rate": 834.1
+ },
+ {
+   "Year": 1974,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 76.7,
+   "Age-adjusted Death Rate": 884.2
+ },
+ {
+   "Year": 1973,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 76.1,
+   "Age-adjusted Death Rate": 921.4
+ },
+ {
+   "Year": 1972,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75.9,
+   "Age-adjusted Death Rate": 932.9
+ },
+ {
+   "Year": 1971,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75.8,
+   "Age-adjusted Death Rate": 933.4
+ },
+ {
+   "Year": 1970,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75.6,
+   "Age-adjusted Death Rate": 944
+ },
+ {
+   "Year": 1969,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75.3,
+   "Age-adjusted Death Rate": 984.2
+ },
+ {
+   "Year": 1968,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75,
+   "Age-adjusted Death Rate": 1012.2
+ },
+ {
+   "Year": 1967,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 75.2,
+   "Age-adjusted Death Rate": 992.9
+ },
+ {
+   "Year": 1966,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.8,
+   "Age-adjusted Death Rate": 1024.7
+ },
+ {
+   "Year": 1965,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.8,
+   "Age-adjusted Death Rate": 1026.7
+ },
+ {
+   "Year": 1964,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.7,
+   "Age-adjusted Death Rate": 1030.9
+ },
+ {
+   "Year": 1963,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.4,
+   "Age-adjusted Death Rate": 1062.6
+ },
+ {
+   "Year": 1962,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.5,
+   "Age-adjusted Death Rate": 1052.6
+ },
+ {
+   "Year": 1961,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.6,
+   "Age-adjusted Death Rate": 1038.8
+ },
+ {
+   "Year": 1960,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.1,
+   "Age-adjusted Death Rate": 1074.4
+ },
+ {
+   "Year": 1959,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 74.2,
+   "Age-adjusted Death Rate": 1065.3
+ },
+ {
+   "Year": 1958,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.9,
+   "Age-adjusted Death Rate": 1090.8
+ },
+ {
+   "Year": 1957,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.7,
+   "Age-adjusted Death Rate": 1104.1
+ },
+ {
+   "Year": 1956,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.9,
+   "Age-adjusted Death Rate": 1089.9
+ },
+ {
+   "Year": 1955,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.7,
+   "Age-adjusted Death Rate": 1095.4
+ },
+ {
+   "Year": 1954,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73.7,
+   "Age-adjusted Death Rate": 1081.8
+ },
+ {
+   "Year": 1953,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 73,
+   "Age-adjusted Death Rate": 1141
+ },
+ {
+   "Year": 1952,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 72.6,
+   "Age-adjusted Death Rate": 1153.3
+ },
+ {
+   "Year": 1951,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 72.4,
+   "Age-adjusted Death Rate": 1179.1
+ },
+ {
+   "Year": 1950,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 72.2,
+   "Age-adjusted Death Rate": 1198
+ },
+ {
+   "Year": 1949,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 71.9,
+   "Age-adjusted Death Rate": 1217.3
+ },
+ {
+   "Year": 1948,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 71,
+   "Age-adjusted Death Rate": 1263.7
+ },
+ {
+   "Year": 1947,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 70.5,
+   "Age-adjusted Death Rate": 1301.6
+ },
+ {
+   "Year": 1946,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 70.3,
+   "Age-adjusted Death Rate": 1315.2
+ },
+ {
+   "Year": 1945,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 69.5,
+   "Age-adjusted Death Rate": 1344.7
+ },
+ {
+   "Year": 1944,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 68.4,
+   "Age-adjusted Death Rate": 1391.1
+ },
+ {
+   "Year": 1943,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 65.7,
+   "Age-adjusted Death Rate": 1469.1
+ },
+ {
+   "Year": 1942,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 69.4,
+   "Age-adjusted Death Rate": 1403.6
+ },
+ {
+   "Year": 1941,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 68.5,
+   "Age-adjusted Death Rate": 1453.2
+ },
+ {
+   "Year": 1940,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 66.6,
+   "Age-adjusted Death Rate": 1550.4
+ },
+ {
+   "Year": 1939,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 66.6,
+   "Age-adjusted Death Rate": 1556.8
+ },
+ {
+   "Year": 1938,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 66.8,
+   "Age-adjusted Death Rate": 1549.4
+ },
+ {
+   "Year": 1937,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 63.8,
+   "Age-adjusted Death Rate": 1644.3
+ },
+ {
+   "Year": 1936,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 61.9,
+   "Age-adjusted Death Rate": 1727.4
+ },
+ {
+   "Year": 1935,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 65,
+   "Age-adjusted Death Rate": 1642
+ },
+ {
+   "Year": 1934,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 64.6,
+   "Age-adjusted Death Rate": 1668.1
+ },
+ {
+   "Year": 1933,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 66.3,
+   "Age-adjusted Death Rate": 1649.4
+ },
+ {
+   "Year": 1932,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 64.5,
+   "Age-adjusted Death Rate": 1707.3
+ },
+ {
+   "Year": 1931,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 64.7,
+   "Age-adjusted Death Rate": 1681.8
+ },
+ {
+   "Year": 1930,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 63.5,
+   "Age-adjusted Death Rate": 1726.6
+ },
+ {
+   "Year": 1929,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 60.3,
+   "Age-adjusted Death Rate": 1869.9
+ },
+ {
+   "Year": 1928,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 60,
+   "Age-adjusted Death Rate": 1920.2
+ },
+ {
+   "Year": 1927,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 63.9,
+   "Age-adjusted Death Rate": 1800.4
+ },
+ {
+   "Year": 1926,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 59.6,
+   "Age-adjusted Death Rate": 1963.8
+ },
+ {
+   "Year": 1925,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 62.4,
+   "Age-adjusted Death Rate": 1890.5
+ },
+ {
+   "Year": 1924,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 63.4,
+   "Age-adjusted Death Rate": 1860.6
+ },
+ {
+   "Year": 1923,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 59.6,
+   "Age-adjusted Death Rate": 1995.9
+ },
+ {
+   "Year": 1922,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 61.9,
+   "Age-adjusted Death Rate": 1917.7
+ },
+ {
+   "Year": 1921,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 62.9,
+   "Age-adjusted Death Rate": 1842.3
+ },
+ {
+   "Year": 1920,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 55.6,
+   "Age-adjusted Death Rate": 2025.9
+ },
+ {
+   "Year": 1919,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 57.4,
+   "Age-adjusted Death Rate": 1915.1
+ },
+ {
+   "Year": 1918,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 43.2,
+   "Age-adjusted Death Rate": 2274.9
+ },
+ {
+   "Year": 1917,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 55.3,
+   "Age-adjusted Death Rate": 2063.3
+ },
+ {
+   "Year": 1916,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 55.2,
+   "Age-adjusted Death Rate": 2078.3
+ },
+ {
+   "Year": 1915,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 57.5,
+   "Age-adjusted Death Rate": 2008.4
+ },
+ {
+   "Year": 1914,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 57.5,
+   "Age-adjusted Death Rate": 1976.1
+ },
+ {
+   "Year": 1913,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 55.7,
+   "Age-adjusted Death Rate": 2027.6
+ },
+ {
+   "Year": 1912,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 56.2,
+   "Age-adjusted Death Rate": 2045.1
+ },
+ {
+   "Year": 1911,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 54.9,
+   "Age-adjusted Death Rate": 2088.3
+ },
+ {
+   "Year": 1910,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 52,
+   "Age-adjusted Death Rate": 2154
+ },
+ {
+   "Year": 1909,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 54.2,
+   "Age-adjusted Death Rate": 2092.1
+ },
+ {
+   "Year": 1908,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 53.3,
+   "Age-adjusted Death Rate": 2141.8
+ },
+ {
+   "Year": 1907,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 50.4,
+   "Age-adjusted Death Rate": 2303.8
+ },
+ {
+   "Year": 1906,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 51.4,
+   "Age-adjusted Death Rate": 2220.8
+ },
+ {
+   "Year": 1905,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 50.6,
+   "Age-adjusted Death Rate": 2269
+ },
+ {
+   "Year": 1904,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 49.5,
+   "Age-adjusted Death Rate": 2339.7
+ },
+ {
+   "Year": 1903,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 52.5,
+   "Age-adjusted Death Rate": 2231.5
+ },
+ {
+   "Year": 1902,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 53.8,
+   "Age-adjusted Death Rate": 2146.4
+ },
+ {
+   "Year": 1901,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 51,
+   "Age-adjusted Death Rate": 2334.7
+ },
+ {
+   "Year": 1900,
+   "Race": "White",
+   "Sex": "Female",
+   "Average Life Expectancy (Years)": 48.7,
+   "Age-adjusted Death Rate": 2394
+ },
+ {
+   "Year": 2015,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": null,
+   "Age-adjusted Death Rate": 861.9
+ },
+ {
+   "Year": 2014,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76.7,
+   "Age-adjusted Death Rate": 853.4
+ },
+ {
+   "Year": 2013,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76.7,
+   "Age-adjusted Death Rate": 859.2
+ },
+ {
+   "Year": 2012,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76.7,
+   "Age-adjusted Death Rate": 860
+ },
+ {
+   "Year": 2011,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76.6,
+   "Age-adjusted Death Rate": 870.2
+ },
+ {
+   "Year": 2010,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76.5,
+   "Age-adjusted Death Rate": 878.5
+ },
+ {
+   "Year": 2009,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76.4,
+   "Age-adjusted Death Rate": 880.5
+ },
+ {
+   "Year": 2008,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76.1,
+   "Age-adjusted Death Rate": 907.1
+ },
+ {
+   "Year": 2007,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 76,
+   "Age-adjusted Death Rate": 907.1
+ },
+ {
+   "Year": 2006,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 75.8,
+   "Age-adjusted Death Rate": 925.8
+ },
+ {
+   "Year": 2005,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 75.5,
+   "Age-adjusted Death Rate": 952.9
+ },
+ {
+   "Year": 2004,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 75.5,
+   "Age-adjusted Death Rate": 953.2
+ },
+ {
+   "Year": 2003,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 75.1,
+   "Age-adjusted Death Rate": 988.8
+ },
+ {
+   "Year": 2002,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 74.9,
+   "Age-adjusted Death Rate": 1009
+ },
+ {
+   "Year": 2001,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 74.9,
+   "Age-adjusted Death Rate": 1012.1
+ },
+ {
+   "Year": 2000,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 74.7,
+   "Age-adjusted Death Rate": 1029.4
+ },
+ {
+   "Year": 1999,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 74.6,
+   "Age-adjusted Death Rate": 1040.1
+ },
+ {
+   "Year": 1998,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 74.5,
+   "Age-adjusted Death Rate": 1041.6
+ },
+ {
+   "Year": 1997,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 74.3,
+   "Age-adjusted Death Rate": 1058.7
+ },
+ {
+   "Year": 1996,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 73.9,
+   "Age-adjusted Death Rate": 1082.5
+ },
+ {
+   "Year": 1995,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 73.4,
+   "Age-adjusted Death Rate": 1107.2
+ },
+ {
+   "Year": 1994,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 73.3,
+   "Age-adjusted Death Rate": 1118.4
+ },
+ {
+   "Year": 1993,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 73.1,
+   "Age-adjusted Death Rate": 1138.7
+ },
+ {
+   "Year": 1992,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 73.2,
+   "Age-adjusted Death Rate": 1122.2
+ },
+ {
+   "Year": 1991,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72.9,
+   "Age-adjusted Death Rate": 1142.8
+ },
+ {
+   "Year": 1990,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72.7,
+   "Age-adjusted Death Rate": 1165.3
+ },
+ {
+   "Year": 1989,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72.5,
+   "Age-adjusted Death Rate": 1176
+ },
+ {
+   "Year": 1988,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72.2,
+   "Age-adjusted Death Rate": 1215.5
+ },
+ {
+   "Year": 1987,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 72.1,
+   "Age-adjusted Death Rate": 1213.1
+ },
+ {
+   "Year": 1986,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.9,
+   "Age-adjusted Death Rate": 1230.5
+ },
+ {
+   "Year": 1985,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.8,
+   "Age-adjusted Death Rate": 1249.5
+ },
+ {
+   "Year": 1984,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.8,
+   "Age-adjusted Death Rate": 1245.5
+ },
+ {
+   "Year": 1983,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.6,
+   "Age-adjusted Death Rate": 1259.8
+ },
+ {
+   "Year": 1982,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.5,
+   "Age-adjusted Death Rate": 1255.9
+ },
+ {
+   "Year": 1981,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 71.1,
+   "Age-adjusted Death Rate": 1282.4
+ },
+ {
+   "Year": 1980,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 70.7,
+   "Age-adjusted Death Rate": 1317.4
+ },
+ {
+   "Year": 1979,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 70.8,
+   "Age-adjusted Death Rate": 1289.5
+ },
+ {
+   "Year": 1978,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 70.4,
+   "Age-adjusted Death Rate": 1332.5
+ },
+ {
+   "Year": 1977,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 70.2,
+   "Age-adjusted Death Rate": 1343.5
+ },
+ {
+   "Year": 1976,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 69.9,
+   "Age-adjusted Death Rate": 1379.5
+ },
+ {
+   "Year": 1975,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 69.5,
+   "Age-adjusted Death Rate": 1391.1
+ },
+ {
+   "Year": 1974,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 69,
+   "Age-adjusted Death Rate": 1450.8
+ },
+ {
+   "Year": 1973,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 68.5,
+   "Age-adjusted Death Rate": 1507.2
+ },
+ {
+   "Year": 1972,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 68.3,
+   "Age-adjusted Death Rate": 1520.2
+ },
+ {
+   "Year": 1971,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 68.3,
+   "Age-adjusted Death Rate": 1514.4
+ },
+ {
+   "Year": 1970,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 68,
+   "Age-adjusted Death Rate": 1513.7
+ },
+ {
+   "Year": 1969,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.7,
+   "Age-adjusted Death Rate": 1570.4
+ },
+ {
+   "Year": 1968,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.5,
+   "Age-adjusted Death Rate": 1602.7
+ },
+ {
+   "Year": 1967,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.8,
+   "Age-adjusted Death Rate": 1566.9
+ },
+ {
+   "Year": 1966,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.5,
+   "Age-adjusted Death Rate": 1595.7
+ },
+ {
+   "Year": 1965,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.6,
+   "Age-adjusted Death Rate": 1589.9
+ },
+ {
+   "Year": 1964,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.7,
+   "Age-adjusted Death Rate": 1572
+ },
+ {
+   "Year": 1963,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.4,
+   "Age-adjusted Death Rate": 1614.7
+ },
+ {
+   "Year": 1962,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.7,
+   "Age-adjusted Death Rate": 1579.1
+ },
+ {
+   "Year": 1961,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.8,
+   "Age-adjusted Death Rate": 1547.3
+ },
+ {
+   "Year": 1960,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.4,
+   "Age-adjusted Death Rate": 1586
+ },
+ {
+   "Year": 1959,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.5,
+   "Age-adjusted Death Rate": 1552.1
+ },
+ {
+   "Year": 1958,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.4,
+   "Age-adjusted Death Rate": 1573.1
+ },
+ {
+   "Year": 1957,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.2,
+   "Age-adjusted Death Rate": 1581.7
+ },
+ {
+   "Year": 1956,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.5,
+   "Age-adjusted Death Rate": 1554.4
+ },
+ {
+   "Year": 1955,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.4,
+   "Age-adjusted Death Rate": 1544.7
+ },
+ {
+   "Year": 1954,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 67.5,
+   "Age-adjusted Death Rate": 1516.3
+ },
+ {
+   "Year": 1953,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.8,
+   "Age-adjusted Death Rate": 1589
+ },
+ {
+   "Year": 1952,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.6,
+   "Age-adjusted Death Rate": 1588.5
+ },
+ {
+   "Year": 1951,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.5,
+   "Age-adjusted Death Rate": 1621.7
+ },
+ {
+   "Year": 1950,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.5,
+   "Age-adjusted Death Rate": 1642.5
+ },
+ {
+   "Year": 1949,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 66.2,
+   "Age-adjusted Death Rate": 1647.8
+ },
+ {
+   "Year": 1948,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65.5,
+   "Age-adjusted Death Rate": 1691.2
+ },
+ {
+   "Year": 1947,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65.2,
+   "Age-adjusted Death Rate": 1718.6
+ },
+ {
+   "Year": 1946,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65.1,
+   "Age-adjusted Death Rate": 1706.1
+ },
+ {
+   "Year": 1945,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.4,
+   "Age-adjusted Death Rate": 1761.6
+ },
+ {
+   "Year": 1944,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.5,
+   "Age-adjusted Death Rate": 1788
+ },
+ {
+   "Year": 1943,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 63.2,
+   "Age-adjusted Death Rate": 1872.9
+ },
+ {
+   "Year": 1942,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 65.9,
+   "Age-adjusted Death Rate": 1793.7
+ },
+ {
+   "Year": 1941,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 64.4,
+   "Age-adjusted Death Rate": 1844.1
+ },
+ {
+   "Year": 1940,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 62.1,
+   "Age-adjusted Death Rate": 1925.2
+ },
+ {
+   "Year": 1939,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 63.3,
+   "Age-adjusted Death Rate": 1894.4
+ },
+ {
+   "Year": 1938,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 63.2,
+   "Age-adjusted Death Rate": 1882.7
+ },
+ {
+   "Year": 1937,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 59.3,
+   "Age-adjusted Death Rate": 2016.5
+ },
+ {
+   "Year": 1936,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 58,
+   "Age-adjusted Death Rate": 2087
+ },
+ {
+   "Year": 1935,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 61,
+   "Age-adjusted Death Rate": 1979.3
+ },
+ {
+   "Year": 1934,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60.5,
+   "Age-adjusted Death Rate": 2000.7
+ },
+ {
+   "Year": 1933,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 62.7,
+   "Age-adjusted Death Rate": 1952.2
+ },
+ {
+   "Year": 1932,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 62,
+   "Age-adjusted Death Rate": 1982.9
+ },
+ {
+   "Year": 1931,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60.8,
+   "Age-adjusted Death Rate": 1983.6
+ },
+ {
+   "Year": 1930,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 59.7,
+   "Age-adjusted Death Rate": 2013.8
+ },
+ {
+   "Year": 1929,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 57.2,
+   "Age-adjusted Death Rate": 2141.2
+ },
+ {
+   "Year": 1928,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 57,
+   "Age-adjusted Death Rate": 2182.8
+ },
+ {
+   "Year": 1927,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60.5,
+   "Age-adjusted Death Rate": 2048.6
+ },
+ {
+   "Year": 1926,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 57,
+   "Age-adjusted Death Rate": 2190.6
+ },
+ {
+   "Year": 1925,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 59.3,
+   "Age-adjusted Death Rate": 2104.4
+ },
+ {
+   "Year": 1924,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 59.8,
+   "Age-adjusted Death Rate": 2073.7
+ },
+ {
+   "Year": 1923,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 57.1,
+   "Age-adjusted Death Rate": 2174.2
+ },
+ {
+   "Year": 1922,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 59.1,
+   "Age-adjusted Death Rate": 2088.2
+ },
+ {
+   "Year": 1921,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 60.8,
+   "Age-adjusted Death Rate": 1986.2
+ },
+ {
+   "Year": 1920,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 54.4,
+   "Age-adjusted Death Rate": 2166.6
+ },
+ {
+   "Year": 1919,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 54.5,
+   "Age-adjusted Death Rate": 2096
+ },
+ {
+   "Year": 1918,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 37.1,
+   "Age-adjusted Death Rate": 2680.7
+ },
+ {
+   "Year": 1917,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 49.3,
+   "Age-adjusted Death Rate": 2375.9
+ },
+ {
+   "Year": 1916,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 50.2,
+   "Age-adjusted Death Rate": 2365.6
+ },
+ {
+   "Year": 1915,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 53.1,
+   "Age-adjusted Death Rate": 2267.8
+ },
+ {
+   "Year": 1914,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 52.7,
+   "Age-adjusted Death Rate": 2254.1
+ },
+ {
+   "Year": 1913,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 50.8,
+   "Age-adjusted Death Rate": 2322.1
+ },
+ {
+   "Year": 1912,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 51.9,
+   "Age-adjusted Death Rate": 2327.5
+ },
+ {
+   "Year": 1911,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 51.3,
+   "Age-adjusted Death Rate": 2350.3
+ },
+ {
+   "Year": 1910,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 48.6,
+   "Age-adjusted Death Rate": 2441.9
+ },
+ {
+   "Year": 1909,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 50.9,
+   "Age-adjusted Death Rate": 2363.8
+ },
+ {
+   "Year": 1908,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 49.9,
+   "Age-adjusted Death Rate": 2412.3
+ },
+ {
+   "Year": 1907,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 46,
+   "Age-adjusted Death Rate": 2637
+ },
+ {
+   "Year": 1906,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 47.3,
+   "Age-adjusted Death Rate": 2529.3
+ },
+ {
+   "Year": 1905,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 47.6,
+   "Age-adjusted Death Rate": 2544.7
+ },
+ {
+   "Year": 1904,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 46.6,
+   "Age-adjusted Death Rate": 2630.5
+ },
+ {
+   "Year": 1903,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 49.5,
+   "Age-adjusted Death Rate": 2494.2
+ },
+ {
+   "Year": 1902,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 50.2,
+   "Age-adjusted Death Rate": 2430.1
+ },
+ {
+   "Year": 1901,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 48,
+   "Age-adjusted Death Rate": 2582.3
+ },
+ {
+   "Year": 1900,
+   "Race": "White",
+   "Sex": "Male",
+   "Average Life Expectancy (Years)": 46.6,
+   "Age-adjusted Death Rate": 2613.2
+ }
+]
